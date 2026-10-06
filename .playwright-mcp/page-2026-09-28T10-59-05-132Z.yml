@@ -1,0 +1,273 @@
+- generic [ref=e1]:
+  - generic [aria-hidden] [ref=e2]:
+    - complementary [ref=e3]:
+      - link [ref=e331] [cursor=pointer]:
+        - /url: /admin
+        - generic [ref=e7]:
+          - paragraph [ref=e8]: Settl
+          - paragraph [ref=e9]: Business Admin
+      - navigation [ref=e10]:
+        - link [ref=e333] [cursor=pointer]:
+          - /url: /admin
+          - generic [ref=e14]: Dashboard
+        - link [ref=e334] [cursor=pointer]:
+          - /url: /admin/debtors
+          - generic [ref=e18]: Debtors
+        - link [ref=e335] [cursor=pointer]:
+          - /url: /admin/vouchers
+          - generic [ref=e22]: Vouchers
+        - link [ref=e336] [cursor=pointer]:
+          - /url: /admin/reminders
+          - generic [ref=e26]: Reminders
+        - link [ref=e337] [cursor=pointer]:
+          - /url: /admin/extensions
+          - generic [ref=e30]: Extensions
+        - link [ref=e338] [cursor=pointer]:
+          - /url: /admin/payment-attempts
+          - generic [ref=e34]: Payment Attempts
+        - link [ref=e339] [cursor=pointer]:
+          - /url: /admin/whatsapp
+          - generic [ref=e38]: WhatsApp
+        - link [ref=e340] [cursor=pointer]:
+          - /url: /admin/broadcasts
+          - generic [ref=e42]: Broadcasts
+        - link [ref=e341] [cursor=pointer]:
+          - /url: /admin/tally
+          - generic [ref=e46]: Connect Tally
+        - link [ref=e342] [cursor=pointer]:
+          - /url: /admin/billing
+          - generic [ref=e50]: Billing
+        - link [ref=e343] [cursor=pointer]:
+          - /url: /admin/settings
+          - generic [ref=e55]: Settings
+    - generic [ref=e56]:
+      - banner [ref=e57]:
+        - heading [level=1] [ref=e344]: Business Admin
+        - generic [ref=e60]:
+          - generic [ref=e61]: Live
+          - button [ref=e345]
+          - button [ref=e346]
+      - main [ref=e73]:
+        - generic [ref=e92]:
+          - generic [ref=e93]:
+            - generic [ref=e94]:
+              - heading [level=2] [ref=e348]: Dashboard
+              - paragraph [ref=e96]: Good afternoon, here's your collections overview.
+            - generic [ref=e97]:
+              - button [ref=e349]: Quick Add Debtor
+              - button [ref=e350]: Add Voucher
+          - generic [ref=e100]:
+            - generic [ref=e103]:
+              - paragraph [ref=e104]: Total Outstanding
+              - paragraph [ref=e105]: ₹15,00,50,19,15,867.66
+            - generic [ref=e112]:
+              - paragraph [ref=e113]: Active Debtors
+              - paragraph [ref=e114]: "10"
+              - paragraph [ref=e115]: of 10 total
+            - generic [ref=e124]:
+              - paragraph [ref=e125]: Overdue Amount
+              - paragraph [ref=e126]: ₹66,000
+              - paragraph [ref=e127]: 5 vouchers
+            - generic [ref=e133]:
+              - paragraph [ref=e134]: Opted Out
+              - paragraph [ref=e135]: "0"
+              - paragraph [ref=e136]: of 10 debtors
+          - generic [ref=e143]:
+            - generic [ref=e144]:
+              - heading [level=3] [ref=e351]: Outstanding Balance Trend
+              - paragraph [ref=e146]: Last 6 months
+              - generic [ref=e147]:
+                - generic [aria-hidden]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - application:
+                          - generic:
+                            - generic:
+                              - generic: Feb
+                              - generic: Mar
+                              - generic: Apr
+                              - generic: May
+                              - generic: Jun
+                              - generic: Jul
+                            - generic:
+                              - generic: ₹0
+                              - generic: ₹2.5L
+                              - generic: ₹5.0L
+                              - generic: ₹7.5L
+                              - generic: ₹10.0L
+                - generic [ref=e148]: Coming soon
+            - generic [ref=e150]:
+              - heading [level=3] [ref=e353]: Debtor Risk Distribution
+              - paragraph [ref=e152]: By collection risk
+              - generic [ref=e153]:
+                - generic [ref=e154]:
+                  - application [ref=e157]
+                  - generic:
+                    - paragraph: "5"
+                    - paragraph: Total debtors
+                - generic [ref=e173]:
+                  - generic [ref=e174]:
+                    - generic [ref=e175]: Excellent
+                    - generic [ref=e178]: "1"
+                  - generic [ref=e179]:
+                    - generic [ref=e180]: Fair
+                    - generic [ref=e183]: "1"
+                  - generic [ref=e184]:
+                    - generic [ref=e185]: Poor
+                    - generic [ref=e188]: "2"
+                  - generic [ref=e189]:
+                    - generic [ref=e190]: Critical
+                    - generic [ref=e193]: "1"
+          - generic [ref=e194]:
+            - generic [ref=e195]:
+              - generic [ref=e196]:
+                - generic [ref=e197]:
+                  - heading [level=3] [ref=e367]: Top Debtors by Outstanding
+                  - paragraph [ref=e199]: Who to chase first
+                - link [ref=e368] [cursor=pointer]:
+                  - /url: /admin/debtors
+                  - text: View all
+              - application [ref=e204]:
+                - generic [ref=e205]:
+                  - generic [ref=e207] [cursor=pointer]
+                  - generic [ref=e209] [cursor=pointer]
+                  - generic [ref=e211] [cursor=pointer]
+                  - generic [ref=e213] [cursor=pointer]
+                  - generic [ref=e215] [cursor=pointer]
+                - generic [ref=e369]:
+                  - generic [ref=e372] [cursor=pointer]
+                  - generic [ref=e375] [cursor=pointer]
+                  - generic [ref=e378] [cursor=pointer]
+                  - generic [ref=e381] [cursor=pointer]
+                  - generic [ref=e384] [cursor=pointer]
+                - generic [ref=e235]:
+                  - generic [ref=e236]:
+                    - generic [ref=e237]: test test
+                    - generic [ref=e239]: bishow deep kum…
+                    - generic [ref=e241]: Suv D.
+                    - generic [ref=e243]: Debt Ashwin
+                    - generic [ref=e245]: Debt Enough
+                  - generic [ref=e390]:
+                    - generic [ref=e391] [cursor=pointer]: ₹9,99,99,77,77,558.67
+                    - generic [ref=e392] [cursor=pointer]: ₹5,00,00,00,43,700.99
+                    - generic [ref=e393] [cursor=pointer]: ₹50,12,50,001
+                    - generic [ref=e394] [cursor=pointer]: ₹13,45,805
+                    - generic [ref=e395] [cursor=pointer]: ₹10,95,799
+            - generic [ref=e253]:
+              - generic [ref=e254]:
+                - heading [level=3] [ref=e396]: Recent Vouchers
+                - link [ref=e397] [cursor=pointer]:
+                  - /url: /admin/vouchers
+                  - text: View all
+              - table [ref=e258]:
+                - rowgroup [ref=e259]:
+                  - row [ref=e398]:
+                    - columnheader [ref=e399]: Debtor
+                    - columnheader [ref=e400]: Type
+                    - columnheader [ref=e401]: Amount
+                    - columnheader [ref=e402]: Status
+                - rowgroup [ref=e265]:
+                  - row [ref=e403] [cursor=pointer]:
+                    - cell [ref=e404]:
+                      - paragraph [ref=e268]: bishow deep kumar shresthaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+                      - paragraph [ref=e269]: bis-123-123 · 28/9/2026
+                    - cell [ref=e405]:
+                      - generic [ref=e271]: receipt
+                    - cell [ref=e406]: ₹300
+                    - cell [ref=e407]:
+                      - generic [ref=e274]: active
+                  - row [ref=e408] [cursor=pointer]:
+                    - cell [ref=e409]:
+                      - paragraph [ref=e277]: bishow deep kumar shresthaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+                      - paragraph [ref=e278]: inv-1235 · 28/9/2026
+                    - cell [ref=e410]:
+                      - generic [ref=e280]: sales
+                    - cell [ref=e411]: ₹20,000
+                    - cell [ref=e412]:
+                      - generic [ref=e283]: active
+                  - row [ref=e413] [cursor=pointer]:
+                    - cell [ref=e414]:
+                      - paragraph [ref=e286]: bishow deep kumar shresthaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+                      - paragraph [ref=e287]: bis-123-123 · 28/9/2026
+                    - cell [ref=e415]:
+                      - generic [ref=e289]: receipt
+                    - cell [ref=e416]: ₹2,000
+                    - cell [ref=e417]:
+                      - generic [ref=e292]: overdue
+                  - row [ref=e418] [cursor=pointer]:
+                    - cell [ref=e419]:
+                      - paragraph [ref=e295]: bishow deep kumar shresthaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+                      - paragraph [ref=e296]: inv987 · 24/9/2026
+                    - cell [ref=e420]:
+                      - generic [ref=e298]: sales
+                    - cell [ref=e421]: ₹50,00,000
+                    - cell [ref=e422]:
+                      - generic [ref=e301]: overdue
+                  - row [ref=e423] [cursor=pointer]:
+                    - cell [ref=e424]:
+                      - paragraph [ref=e304]: bishow deep kumar shresthaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+                      - paragraph [ref=e305]: VOu-565-454 · 25/9/2026
+                    - cell [ref=e425]:
+                      - generic [ref=e307]: receipt
+                    - cell [ref=e426]: ₹5,000
+                    - cell [ref=e427]:
+                      - generic [ref=e310]: active
+          - generic [ref=e311]:
+            - generic [ref=e312]:
+              - generic [ref=e313]:
+                - heading [level=3] [ref=e428]: Recent Extension Requests
+                - link [ref=e429] [cursor=pointer]:
+                  - /url: /admin/extensions
+                  - text: View all
+              - generic [ref=e317]: No pending extension requests.
+            - generic [ref=e318]:
+              - heading [level=3] [ref=e430]: Reminders
+              - paragraph [ref=e326]: Automated WhatsApp reminder cadences
+              - generic [ref=e327]: Coming soon
+  - region "Notifications alt+T"
+  - alert [ref=e89]
+  - generic [aria-hidden] [ref=e330]: ₹0
+  - dialog [ref=e435]:
+    - generic [ref=e436]:
+      - heading "Add Voucher" [level=2] [ref=e437]
+      - button "Close" [active] [ref=e438]
+    - generic [ref=e440]:
+      - generic [ref=e441]:
+        - generic [ref=e442]: Debtor *
+        - combobox [ref=e443]:
+          - generic [ref=e444]: Select a debtor
+          - img [aria-hidden]: ▼
+        - textbox [aria-hidden] [ref=e445]
+      - generic [ref=e446]:
+        - generic [ref=e447]:
+          - generic [ref=e448]: Voucher no. *
+          - textbox "Voucher no. *" [ref=e449]:
+            - /placeholder: e.g. INV-2026-009
+        - generic [ref=e450]:
+          - generic [ref=e451]: Type
+          - combobox [ref=e452]:
+            - generic [ref=e453]: sales
+            - img [aria-hidden]: ▼
+          - textbox [aria-hidden] [ref=e454]: sales
+      - generic [ref=e455]:
+        - generic [ref=e456]:
+          - generic [ref=e457]: Date *
+          - textbox "Date *" [ref=e458]: 2026-09-28
+        - generic [ref=e459]:
+          - generic [ref=e460]: Due date
+          - textbox "Due date" [ref=e461]
+      - generic [ref=e462]:
+        - generic [ref=e463]:
+          - generic [ref=e464]: Amount *
+          - generic [ref=e465]:
+            - generic: ₹
+            - spinbutton "Amount *" [ref=e466]
+        - generic [ref=e467]:
+          - generic [ref=e468]: Pending amount
+          - generic [ref=e469]:
+            - generic: ₹
+            - spinbutton "Pending amount" [ref=e470]
+    - generic [ref=e471]:
+      - button "Cancel" [ref=e472]
+      - button "Add Voucher" [disabled]

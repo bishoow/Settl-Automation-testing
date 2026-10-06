@@ -1,0 +1,250 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - complementary [ref=e3]:
+      - link [ref=e828] [cursor=pointer]:
+        - /url: /admin
+        - img "Settl" [ref=e829]
+        - generic [ref=e7]:
+          - paragraph [ref=e8]: Settl
+          - paragraph [ref=e9]: Business Admin
+      - navigation [ref=e10]:
+        - link "Dashboard" [ref=e830] [cursor=pointer]:
+          - /url: /admin
+        - link "Debtors" [ref=e831] [cursor=pointer]:
+          - /url: /admin/debtors
+        - link "Vouchers" [active] [ref=e832] [cursor=pointer]:
+          - /url: /admin/vouchers
+        - link "Reminders" [ref=e833] [cursor=pointer]:
+          - /url: /admin/reminders
+        - link "Extensions" [ref=e834] [cursor=pointer]:
+          - /url: /admin/extensions
+        - link "Payment Attempts" [ref=e835] [cursor=pointer]:
+          - /url: /admin/payment-attempts
+        - link "WhatsApp" [ref=e836] [cursor=pointer]:
+          - /url: /admin/whatsapp
+        - link "Broadcasts" [ref=e837] [cursor=pointer]:
+          - /url: /admin/broadcasts
+        - link "Connect Tally" [ref=e838] [cursor=pointer]:
+          - /url: /admin/tally
+        - link "Billing" [ref=e839] [cursor=pointer]:
+          - /url: /admin/billing
+        - link "Settings" [ref=e840] [cursor=pointer]:
+          - /url: /admin/settings
+    - generic [ref=e56]:
+      - banner [ref=e57]:
+        - heading "Business Admin" [level=1] [ref=e841]
+        - generic [ref=e60]:
+          - generic [ref=e61]: Live
+          - button "Notifications" [ref=e842]
+          - button [ref=e843]:
+            - img "Business logo" [ref=e844]
+      - main [ref=e73]:
+        - generic [ref=e929]:
+          - generic [ref=e930]:
+            - generic [ref=e931]:
+              - heading "Vouchers" [level=2] [ref=e932]
+              - paragraph [ref=e933]: Sales, receipts, and payments synced from Tally
+            - generic [ref=e934]:
+              - button "Import CSV / XLS / JSON" [ref=e935]
+              - button "Add Voucher" [ref=e937]
+          - generic [ref=e938]:
+            - generic [ref=e939]:
+              - paragraph [ref=e940]: Total Pending
+              - paragraph [ref=e941]: ₹67,36,222.45
+            - generic [ref=e942]:
+              - paragraph [ref=e943]: Overdue Vouchers
+              - paragraph [ref=e944]: "5"
+            - generic [ref=e945]:
+              - paragraph [ref=e946]: Overdue Amount
+              - paragraph [ref=e947]: ₹66,000
+          - generic [ref=e948]:
+            - textbox "Search by voucher no. or debtor name" [ref=e950]
+            - generic [ref=e951]:
+              - button "all" [ref=e952]
+              - button "sales" [ref=e953]
+              - button "receipt" [ref=e954]
+              - button "payment" [ref=e955]
+          - table [ref=e958]:
+            - rowgroup [ref=e959]:
+              - row [ref=e960]:
+                - columnheader "Voucher" [ref=e961] [cursor=pointer]
+                - columnheader "Type" [ref=e966]
+                - columnheader "Debtor" [ref=e967] [cursor=pointer]
+                - columnheader "Amount" [ref=e972] [cursor=pointer]
+                - columnheader "Pending" [ref=e977] [cursor=pointer]
+                - columnheader "Due Date" [ref=e982] [cursor=pointer]
+                - columnheader "Status" [ref=e987]
+            - rowgroup [ref=e988]:
+              - row [ref=e989] [cursor=pointer]:
+                - cell "PW-E2E-20260928-1059 28/9/2026" [ref=e990]:
+                  - generic "PW-E2E-20260928-1059" [ref=e991]
+                  - paragraph [ref=e992]: 28/9/2026
+                - cell "sales" [ref=e993]
+                - cell "test test" [ref=e995]
+                - cell "₹123.45" [ref=e997]
+                - cell "₹123.45" [ref=e998]
+                - cell "—" [ref=e999]
+                - cell "active" [ref=e1000]
+              - row [ref=e1002] [cursor=pointer]:
+                - cell "bis-123-123 28/9/2026" [ref=e1003]:
+                  - generic "bis-123-123" [ref=e1004]
+                  - paragraph [ref=e1005]: 28/9/2026
+                - cell "receipt" [ref=e1006]
+                - cell "bishow deep kumar shresthaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" [ref=e1008]
+                - cell "₹300" [ref=e1010]
+                - cell "₹150" [ref=e1011]
+                - cell "2/10/2026" [ref=e1012]
+                - cell "active" [ref=e1013]
+              - row [ref=e1015] [cursor=pointer]:
+                - cell "inv-1235 28/9/2026" [ref=e1016]:
+                  - generic "inv-1235" [ref=e1017]
+                  - paragraph [ref=e1018]: 28/9/2026
+                - cell "sales" [ref=e1019]
+                - cell "bishow deep kumar shresthaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" [ref=e1021]
+                - cell "₹20,000" [ref=e1023]
+                - cell "₹1,000" [ref=e1024]
+                - cell "1/10/2026" [ref=e1025]
+                - cell "active" [ref=e1026]
+              - row [ref=e1028] [cursor=pointer]:
+                - cell "bis-123-123 28/9/2026" [ref=e1029]:
+                  - generic "bis-123-123" [ref=e1030]
+                  - paragraph [ref=e1031]: 28/9/2026
+                - cell "receipt" [ref=e1032]
+                - cell "bishow deep kumar shresthaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" [ref=e1034]
+                - cell "₹2,000" [ref=e1036]
+                - cell "₹1,000" [ref=e1037]
+                - cell "28/9/2026" [ref=e1038]
+                - cell "overdue" [ref=e1039]
+              - row [ref=e1041] [cursor=pointer]:
+                - cell "VOu-565-454 25/9/2026" [ref=e1042]:
+                  - generic "VOu-565-454" [ref=e1043]
+                  - paragraph [ref=e1044]: 25/9/2026
+                - cell "receipt" [ref=e1045]
+                - cell "bishow deep kumar shresthaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" [ref=e1047]
+                - cell "₹5,000" [ref=e1049]
+                - cell "₹5,000" [ref=e1050]
+                - cell "30/9/2026" [ref=e1051]
+                - cell "active" [ref=e1052]
+              - row [ref=e1054] [cursor=pointer]:
+                - cell "INC-321 25/9/2026" [ref=e1055]:
+                  - generic "INC-321" [ref=e1056]
+                  - paragraph [ref=e1057]: 25/9/2026
+                - cell "sales" [ref=e1058]
+                - cell "bishow deep kumar shresthaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" [ref=e1060]
+                - cell "₹50,000" [ref=e1062]
+                - cell "₹50,000" [ref=e1063]
+                - cell "30/9/2026" [ref=e1064]
+                - cell "active" [ref=e1065]
+              - row [ref=e1067] [cursor=pointer]:
+                - cell "inv987 24/9/2026" [ref=e1068]:
+                  - generic "inv987" [ref=e1069]
+                  - paragraph [ref=e1070]: 24/9/2026
+                - cell "sales" [ref=e1071]
+                - cell "bishow deep kumar shresthaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" [ref=e1073]
+                - cell "₹50,00,000" [ref=e1075]
+                - cell "₹50,000" [ref=e1076]
+                - cell "24/9/2026" [ref=e1077]
+                - cell "overdue" [ref=e1078]
+              - row [ref=e1080] [cursor=pointer]:
+                - cell "MANUAL-2 16/9/2026" [ref=e1081]:
+                  - generic "MANUAL-2" [ref=e1082]
+                  - paragraph [ref=e1083]: 16/9/2026
+                - cell "receipt" [ref=e1084]
+                - cell "Harsh" [ref=e1086]
+                - cell "₹10" [ref=e1088]
+                - cell "—" [ref=e1089]
+                - cell "—" [ref=e1090]
+                - cell "paid" [ref=e1091]
+              - row [ref=e1093] [cursor=pointer]:
+                - cell "INV-43-43 13/9/2026" [ref=e1094]:
+                  - generic "INV-43-43" [ref=e1095]
+                  - paragraph [ref=e1096]: 13/9/2026
+                - cell "receipt" [ref=e1097]
+                - cell "bishow deep kumar shresthaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" [ref=e1099]
+                - cell "₹6,000" [ref=e1101]
+                - cell "—" [ref=e1102]
+                - cell "19/9/2026" [ref=e1103]
+                - cell "paid" [ref=e1104]
+              - row [ref=e1106] [cursor=pointer]:
+                - cell "bis-123-123 13/9/2026" [ref=e1107]:
+                  - generic "bis-123-123" [ref=e1108]
+                  - paragraph [ref=e1109]: 13/9/2026
+                - cell "sales" [ref=e1110]
+                - cell "bishow deep kumar shresthaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" [ref=e1112]
+                - cell "₹10,000" [ref=e1114]
+                - cell "₹5,000" [ref=e1115]
+                - cell "19/9/2026" [ref=e1116]
+                - cell "overdue" [ref=e1117]
+              - row [ref=e1119] [cursor=pointer]:
+                - cell "INc-123 11/9/2026" [ref=e1120]:
+                  - generic "INc-123" [ref=e1121]
+                  - paragraph [ref=e1122]: 11/9/2026
+                - cell "payment" [ref=e1123]
+                - cell "test test" [ref=e1125]
+                - cell "₹10,000" [ref=e1127]
+                - cell "₹5,000" [ref=e1128]
+                - cell "24/9/2026" [ref=e1129]
+                - cell "overdue" [ref=e1130]
+              - row [ref=e1132] [cursor=pointer]:
+                - cell "INV-006 6/7/2026" [ref=e1133]:
+                  - generic "INV-006" [ref=e1134]
+                  - paragraph [ref=e1135]: 6/7/2026
+                - cell "sales" [ref=e1136]
+                - cell "Debt Desktop" [ref=e1138]
+                - cell "₹1,28,000" [ref=e1140]
+                - cell "₹1,28,000" [ref=e1141]
+                - cell "—" [ref=e1142]
+                - cell "active" [ref=e1143]
+              - row [ref=e1145] [cursor=pointer]:
+                - cell "INV-004 4/7/2026" [ref=e1146]:
+                  - generic "INV-004" [ref=e1147]
+                  - paragraph [ref=e1148]: 4/7/2026
+                - cell "sales" [ref=e1149]
+                - cell "Debt Inaph" [ref=e1151]
+                - cell "₹1,20,000" [ref=e1153]
+                - cell "₹1,20,000" [ref=e1154]
+                - cell "—" [ref=e1155]
+                - cell "active" [ref=e1156]
+              - row [ref=e1158] [cursor=pointer]:
+                - cell "INV-003 3/7/2026" [ref=e1159]:
+                  - generic "INV-003" [ref=e1160]
+                  - paragraph [ref=e1161]: 3/7/2026
+                - cell "sales" [ref=e1162]
+                - cell "Debt Basket" [ref=e1164]
+                - cell "₹1,50,000" [ref=e1166]
+                - cell "₹1,50,000" [ref=e1167]
+                - cell "—" [ref=e1168]
+                - cell "active" [ref=e1169]
+              - row [ref=e1171] [cursor=pointer]:
+                - cell "INV-002 2/7/2026" [ref=e1172]:
+                  - generic "INV-002" [ref=e1173]
+                  - paragraph [ref=e1174]: 2/7/2026
+                - cell "sales" [ref=e1175]
+                - cell "Debt Enough" [ref=e1177]
+                - cell "₹9,99,999" [ref=e1179]
+                - cell "₹9,99,999" [ref=e1180]
+                - cell "—" [ref=e1181]
+                - cell "active" [ref=e1182]
+              - row [ref=e1184] [cursor=pointer]:
+                - cell "INV-005 30/6/2026" [ref=e1185]:
+                  - generic "INV-005" [ref=e1186]
+                  - paragraph [ref=e1187]: 30/6/2026
+                - cell "sales" [ref=e1188]
+                - cell "Debt Inaph" [ref=e1190]
+                - cell "₹1,45,000" [ref=e1192]
+                - cell "₹5,000" [ref=e1193]
+                - cell "19/9/2026" [ref=e1194]
+                - cell "overdue" [ref=e1195]
+              - row [ref=e1197] [cursor=pointer]:
+                - cell "INV-001 30/6/2026" [ref=e1198]:
+                  - generic "INV-001" [ref=e1199]
+                  - paragraph [ref=e1200]: 30/6/2026
+                - cell "sales" [ref=e1201]
+                - cell "Debt Ashwin" [ref=e1203]
+                - cell "₹95,800" [ref=e1205]
+                - cell "₹95,806" [ref=e1206]
+                - cell "—" [ref=e1207]
+                - cell "active" [ref=e1208]
+  - region "Notifications alt+T"
+  - alert [ref=e89]
+  - generic [aria-hidden] [ref=e330]: ₹0

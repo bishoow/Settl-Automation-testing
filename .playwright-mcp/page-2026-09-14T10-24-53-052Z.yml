@@ -1,0 +1,515 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e1180]:
+    - generic [ref=e1181]:
+      - banner [ref=e1182]:
+        - generic [ref=e1184]:
+          - link [ref=e1185] [cursor=pointer]:
+            - /url: /
+          - navigation [ref=e1197]:
+            - button [ref=e1199] [cursor=pointer]
+            - link "Single Distribution" [ref=e1204] [cursor=pointer]:
+              - /url: /choose-a-site
+            - link "Pricing" [ref=e1206] [cursor=pointer]:
+              - /url: /pricings
+            - link "Blogs" [ref=e1208] [cursor=pointer]:
+              - /url: /blog
+            - button "Sample Report" [ref=e1210] [cursor=pointer]
+            - button "Industries" [ref=e1214] [cursor=pointer]
+            - link "Contact" [ref=e1218] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e1221]:
+        - button "Order Status" [ref=e1222] [cursor=pointer]
+        - link "Order Now" [ref=e1227] [cursor=pointer]:
+          - /url: /pricings#packages
+      - dialog:
+        - generic:
+          - generic:
+            - button
+          - generic: Order Status
+          - generic: Please fill the Order ID provided in the email
+          - generic:
+            - textbox "Order ID 213-WA233F"
+            - button
+    - generic:
+      - generic [ref=e1232]:
+        - button "Scroll to top"
+      - link [ref=e1233] [cursor=pointer]:
+        - /url: https://wa.me/447700156964
+    - main [ref=e1236]:
+      - generic [ref=e1239]:
+        - generic [ref=e1240]: Join 30k+ Businesses Scaling With Us
+        - heading "Press Release Distribution Pricing" [level=1] [ref=e1247]
+        - paragraph [ref=e1249]:
+          - text: Choose an EasyPRWire
+          - link "press release distribution" [ref=e1250] [cursor=pointer]:
+            - /url: https://easyprwire.com/press-release-distribution
+          - text: package for one time pricing and no long term commitments, or compare top platforms in our guide to the
+          - link "best press release distribution services in the USA" [ref=e1251] [cursor=pointer]:
+            - /url: https://easyprwire.com/blog/best-press-release-distribution-services-usa
+          - text: to decide with confidence.
+        - generic [ref=e1252]:
+          - generic [ref=e1253]: NO CONTRACTS
+          - generic [ref=e1259]: No Hidden Fees
+          - generic [ref=e1262]: One Time Payment
+          - generic [ref=e1265]: 100% Refund Guarantee
+      - generic [ref=e1273]:
+        - generic [ref=e1274]:
+          - generic [ref=e1275]:
+            - generic [ref=e1276]: Proof of Performance
+            - generic [ref=e1281]:
+              - heading "See a Real Press Release Distribution Report" [level=2] [ref=e1282]
+              - generic [ref=e1283]:
+                - paragraph [ref=e1284]: Every release comes with a comprehensive, white label PDF report featuring live links to every placement.
+                - paragraph [ref=e1285]: No screenshots that could be faked, no round numbers pulled from thin air. Just a clear record you can hand to your team or your client.
+          - generic [ref=e1286]:
+            - generic [ref=e1287]:
+              - generic [ref=e1288]: 400+
+              - generic [ref=e1289]: Live Links
+            - generic [ref=e1290]:
+              - generic [ref=e1291]: 24h
+              - generic [ref=e1292]: Report Delivery
+          - button "Download Sample PDF" [ref=e1293] [cursor=pointer]
+        - generic [ref=e1298]:
+          - generic [ref=e1299]:
+            - heading "EasyPRWire Sample Report" [level=3] [ref=e1300]
+            - generic [ref=e1301]:
+              - generic [ref=e1302]:
+                - img "Total Placements" [ref=e1304]
+                - generic [ref=e1305]:
+                  - generic [ref=e1306]: "482"
+                  - generic [ref=e1307]: Total Placements
+              - generic [ref=e1308]:
+                - img "Potential Reach" [ref=e1310]
+                - generic [ref=e1311]:
+                  - generic [ref=e1312]: 12.4M
+                  - generic [ref=e1313]: Potential Reach
+              - generic [ref=e1314]:
+                - img "Media Outlets" [ref=e1316]
+                - generic [ref=e1317]:
+                  - generic [ref=e1318]: 400+
+                  - generic [ref=e1319]: Media Outlets
+            - generic [ref=e1320]:
+              - generic [ref=e1321]:
+                - img "Associated Press" [ref=e1323]
+                - generic [ref=e1324]:
+                  - generic [ref=e1325]: Associated Press
+                  - link "https://apnews.com" [ref=e1326] [cursor=pointer]:
+                    - /url: https://apnews.com
+              - generic [ref=e1327]:
+                - img "Yahoo Finance" [ref=e1329]
+                - generic [ref=e1330]:
+                  - generic [ref=e1331]: Yahoo Finance
+                  - link "https://finance.yahoo.com" [ref=e1332] [cursor=pointer]:
+                    - /url: https://finance.yahoo.com
+              - generic [ref=e1333]:
+                - img "Benzinga" [ref=e1335]
+                - generic [ref=e1336]:
+                  - generic [ref=e1337]: Benzinga
+                  - link "https://www.benzinga.com" [ref=e1338] [cursor=pointer]:
+                    - /url: https://www.benzinga.com
+          - generic [ref=e1339]: Real-Time
+      - generic [ref=e1347]:
+        - generic [ref=e1348]:
+          - heading "Transparent Press Release Distribution Packages" [level=2] [ref=e1349]
+          - paragraph [ref=e1351]: Select the reach your announcement deserves. Every plan includes our 100% delivery guarantee and a live link report proving exactly where your story ran.
+        - generic [ref=e1352]:
+          - generic [ref=e1354]:
+            - generic [ref=e1355]:
+              - heading "Starter" [level=3] [ref=e1357]
+              - generic [ref=e1358]:
+                - generic [ref=e1359]:
+                  - generic [ref=e1360]: $89
+                  - generic [ref=e1361]: / PR
+                - paragraph [ref=e1362]: Perfect for startups and small businesses.
+                - generic [ref=e1363]:
+                  - img "The Street Logo" [ref=e1365]
+                  - img "StreetInsider.com" [ref=e1367]
+                  - img "Finance Feeds" [ref=e1369]
+            - generic [ref=e1370]:
+              - list [ref=e1371]:
+                - listitem [ref=e1372]:
+                  - generic [ref=e1376]: Distribution to 300+ News Publications
+                - listitem [ref=e1377]:
+                  - generic [ref=e1381]: AI Discoverability (ChatGPT, Perplexity)
+                - listitem [ref=e1382]:
+                  - generic [ref=e1386]: Search Optimized Title & Meta Tags
+                - listitem [ref=e1387]:
+                  - generic [ref=e1391]: Distributed to U.S. TV/Radio Affiliate Websites Based on Relevance
+              - generic [ref=e1392]:
+                - link "Select Starter" [ref=e1393] [cursor=pointer]:
+                  - /url: /checkout/starter
+                - button "View All Included Outlets" [ref=e1394] [cursor=pointer]
+                - link "View Sample Report" [ref=e1397] [cursor=pointer]:
+                  - /url: /sample-report/starter
+          - generic [ref=e1402]:
+            - generic [ref=e1403]:
+              - heading "Elite" [level=3] [ref=e1405]
+              - generic [ref=e1406]:
+                - generic [ref=e1407]:
+                  - generic [ref=e1408]: $199
+                  - generic [ref=e1409]: / PR
+                - paragraph [ref=e1410]: Ideal for growing brands and marketing teams.
+                - generic [ref=e1411]:
+                  - img "openPR" [ref=e1413]
+                  - img "The Street Logo" [ref=e1415]
+                  - img "StreetInsider.com" [ref=e1417]
+            - generic [ref=e1418]:
+              - list [ref=e1419]:
+                - listitem [ref=e1420]:
+                  - generic [ref=e1424]: Distribution to 400+ News Publications
+                - listitem [ref=e1425]:
+                  - generic [ref=e1429]: AI Discoverability (ChatGPT, Perplexity)
+                - listitem [ref=e1430]:
+                  - generic [ref=e1434]: 24-Hour Editorial Review
+              - generic [ref=e1435]:
+                - link "Select Elite" [ref=e1436] [cursor=pointer]:
+                  - /url: https://easyprwire.com/checkout/elite
+                - button "View All Included Outlets" [ref=e1437] [cursor=pointer]
+                - link "View Sample Report" [ref=e1440] [cursor=pointer]:
+                  - /url: /sample-report/elite
+          - generic [ref=e1444]:
+            - generic [ref=e1445]: Most Popular
+            - generic [ref=e1446]:
+              - generic [ref=e1447]:
+                - heading "Premium" [level=3] [ref=e1449]
+                - generic [ref=e1450]:
+                  - generic [ref=e1451]:
+                    - generic [ref=e1452]: $499
+                    - generic [ref=e1453]: / PR
+                  - paragraph [ref=e1454]: Designed for brands that want broader reach
+                  - generic [ref=e1455]:
+                    - img "Yahoo Finance!" [ref=e1457]
+                    - img "Business Insider" [ref=e1459]
+                    - img "Benzinga" [ref=e1461]
+              - generic [ref=e1462]:
+                - list [ref=e1463]:
+                  - listitem [ref=e1464]:
+                    - generic [ref=e1468]: 500+ Media Placements
+                  - listitem [ref=e1469]:
+                    - generic [ref=e1473]: Yahoo! Finance & News, Associated Press (AP)
+                  - listitem [ref=e1474]:
+                    - generic [ref=e1478]: Journalist Outreach
+                  - listitem [ref=e1479]:
+                    - generic [ref=e1483]: Priority Editorial Queue
+                - generic [ref=e1484]:
+                  - link "Select Premium" [ref=e1485] [cursor=pointer]:
+                    - /url: https://easyprwire.com/checkout/premium
+                  - button "View All Included Outlets" [ref=e1486] [cursor=pointer]
+                  - link "View Sample Report" [ref=e1489] [cursor=pointer]:
+                    - /url: /sample-report/premium
+          - generic [ref=e1494]:
+            - generic [ref=e1495]:
+              - heading "Ultimate" [level=3] [ref=e1497]
+              - generic [ref=e1498]:
+                - generic [ref=e1499]:
+                  - generic [ref=e1500]: $799
+                  - generic [ref=e1501]: / PR
+                - paragraph [ref=e1502]: Built for maximum reach, visibility, and impact.
+                - generic [ref=e1503]:
+                  - img "Yahoo Finance!" [ref=e1505]
+                  - img "msn" [ref=e1507]
+                  - img "AP News" [ref=e1509]
+                  - img "Barchart" [ref=e1511]
+            - generic [ref=e1512]:
+              - list [ref=e1513]:
+                - listitem [ref=e1514]:
+                  - generic [ref=e1518]: 600+ Media Placements
+                - listitem [ref=e1519]:
+                  - generic [ref=e1523]: Top Financial Networks
+                - listitem [ref=e1524]:
+                  - generic [ref=e1528]: Dedicated Account Manager
+                - listitem [ref=e1529]:
+                  - generic [ref=e1533]: White-Label PDF Reports
+              - generic [ref=e1534]:
+                - link "Select Ultimate" [ref=e1535] [cursor=pointer]:
+                  - /url: https://easyprwire.com/checkout/ultimate
+                - button "View All Included Outlets" [ref=e1536] [cursor=pointer]
+                - link "View Sample Report" [ref=e1539] [cursor=pointer]:
+                  - /url: /sample-report/ultimate
+        - generic [ref=e1544]:
+          - paragraph [ref=e1548]: Want a custom package?
+          - link "Build Your Own Custom Package" [ref=e1549] [cursor=pointer]:
+            - /url: https://easyprwire.com/choose-a-site
+      - generic [ref=e1553]:
+        - generic [ref=e1554]:
+          - heading "Compare Packages" [level=2] [ref=e1555]
+          - paragraph [ref=e1557]: Full transparency on every feature. No hidden add ons.
+        - generic [ref=e1559]:
+          - generic [ref=e1560]:
+            - generic [ref=e1561]: "Plans:"
+            - generic [ref=e1563]:
+              - generic [ref=e1564]:
+                - generic [ref=e1566]:
+                  - generic [ref=e1567]: Starter
+                  - generic [ref=e1568]:
+                    - generic [ref=e1569]: $89
+                    - generic [ref=e1570]: / PR
+                - link "Get Started" [ref=e1571] [cursor=pointer]:
+                  - /url: /checkout/starter
+              - generic [ref=e1575]:
+                - generic [ref=e1577]:
+                  - generic [ref=e1578]: Elite
+                  - generic [ref=e1579]:
+                    - generic [ref=e1580]: $199
+                    - generic [ref=e1581]: / PR
+                - link "Get Started" [ref=e1582] [cursor=pointer]:
+                  - /url: https://easyprwire.com/checkout/elite
+              - generic [ref=e1586]:
+                - generic [ref=e1587]:
+                  - generic [ref=e1588]:
+                    - generic [ref=e1589]: Premium
+                    - generic [ref=e1590]:
+                      - generic [ref=e1591]: $499
+                      - generic [ref=e1592]: / PR
+                  - generic [ref=e1593]: Most Popular
+                - link "Get Started" [ref=e1594] [cursor=pointer]:
+                  - /url: https://easyprwire.com/checkout/premium
+              - generic [ref=e1598]:
+                - generic [ref=e1600]:
+                  - generic [ref=e1601]: Ultimate
+                  - generic [ref=e1602]:
+                    - generic [ref=e1603]: $799
+                    - generic [ref=e1604]: / PR
+                - link "Get Started" [ref=e1605] [cursor=pointer]:
+                  - /url: https://easyprwire.com/checkout/ultimate
+          - generic [ref=e1609]:
+            - generic [ref=e1610]: Overview
+            - generic [ref=e1611]:
+              - generic [ref=e1612]: Monthly Traffic
+              - generic [ref=e1614]:
+                - generic [ref=e1615]: 6-8 Million
+                - generic [ref=e1617]: 15-20 Million
+                - generic [ref=e1619]: 150-160 Millions
+                - generic [ref=e1621]: 250-270 Millions
+            - generic [ref=e1623]: Trust Badge
+            - generic [ref=e1643]:
+              - generic [ref=e1644]: Covers All Topics
+              - generic [ref=e1646]:
+                - generic [ref=e1647]: 90+
+                - generic [ref=e1649]: 90+
+                - generic [ref=e1651]: 80+
+                - generic [ref=e1653]: 80+
+            - generic [ref=e1655]:
+              - generic [ref=e1656]: Highest Domain Authority
+              - generic [ref=e1658]:
+                - generic [ref=e1659]: "40"
+                - generic [ref=e1661]: 63+
+                - generic [ref=e1663]: 75+
+                - generic [ref=e1665]: "83"
+            - generic [ref=e1667]:
+              - generic [ref=e1668]: Published In
+              - generic [ref=e1670]:
+                - generic [ref=e1671]: 48 Business Hours
+                - generic [ref=e1673]: 72 Business Hours
+                - generic [ref=e1675]: 72 Business Hours
+                - generic [ref=e1677]: 72 Business Hours
+            - generic [ref=e1679]:
+              - generic [ref=e1680]: Guaranteed News Distribution
+              - generic [ref=e1682]:
+                - generic [ref=e1683]: 350+ Medias
+                - generic [ref=e1685]: 400+ Medias
+                - generic [ref=e1687]: 500+ Medias
+                - generic [ref=e1689]: 650+ Medias
+            - generic [ref=e1691]: Included Outlets
+            - generic [ref=e1692]: Indexed on Google & Bing Search
+            - generic [ref=e1712]: TheStreet
+            - generic [ref=e1732]: Financial Feeds
+            - generic [ref=e1752]: Online Newspaper
+            - generic [ref=e1772]: Street Insider
+            - generic [ref=e1792]: RSS Feeds Distribution
+            - generic [ref=e1812]: openPR
+            - generic [ref=e1832]: TechBullion
+            - generic [ref=e1853]: Benzinga
+            - generic [ref=e1875]: Yahoo Finance
+            - generic [ref=e1897]: Business Insider
+            - generic [ref=e1919]: Fox 8
+            - generic [ref=e1941]: The Manila Times
+            - generic [ref=e1963]: Associated Press
+            - generic [ref=e1985]: ChineseWire
+            - generic [ref=e2007]: Times of San Diego
+            - generic [ref=e2029]: Dimorian Review
+            - generic [ref=e2051]: Regional Distribution
+            - generic [ref=e2073]: NBC Affiliation
+            - generic [ref=e2095]: Solo Economia
+            - generic [ref=e2117]: The Daily Leader
+            - generic [ref=e2139]: CBC Affiliation
+            - generic [ref=e2161]: International Distribution
+            - generic [ref=e2183]: Tradewire
+            - generic [ref=e2205]: Msn
+            - generic [ref=e2228]: Barchart
+            - generic [ref=e2251]: Accepted Topics
+            - generic [ref=e2252]: Advertising
+            - generic [ref=e2272]: Auto Manufacturers / Automotive
+            - generic [ref=e2292]: Computer Hardware, Networks, Software, Internet Consumer & Retail Products
+            - generic [ref=e2312]: Education
+            - generic [ref=e2332]: Electronics & Engineering, Electronic Components
+            - generic [ref=e2352]: Forex, Exchange Traded Funds
+            - generic [ref=e2372]: Food & Beverage Products
+            - generic [ref=e2392]: Household/Consumer/Cosmetics
+            - generic [ref=e2412]: Leisure/Travel/Hotels
+            - generic [ref=e2432]: Sports, Leisure & Entertainment
+            - generic [ref=e2452]: Technology, Semiconductors, Virtual Reality, Internet Technology
+            - generic [ref=e2472]: Textiles/Apparel
+            - generic [ref=e2492]: Blockchain & Cryptocurrency
+            - generic [ref=e2512]: Cannabis, Cannabis Manufacturer, Cannabis Dispensary
+            - generic [ref=e2532]: Gambling/Casinos
+            - generic [ref=e2553]: Gaming/Lottery
+      - generic [ref=e2576]:
+        - generic [ref=e2583]:
+          - heading "Our 100% Delivery Guarantee" [level=2] [ref=e2584]
+          - generic [ref=e2585]:
+            - paragraph [ref=e2586]: We're the only press release distribution service provider offering a full refund if your press release doesn't publish on the guaranteed outlets.
+            - paragraph [ref=e2587]: If your press release is not published on the guaranteed number of outlets for your plan, we will issue a full refund. We take all the risk so you can publish with confidence.
+        - link "Read Refund Policy" [ref=e2588] [cursor=pointer]:
+          - /url: /refund-policy
+        - generic [ref=e2591]:
+          - generic [ref=e2592]: No Contracts
+          - generic [ref=e2595]: One Time Payment
+          - generic [ref=e2598]: Secure Checkout
+      - generic [ref=e2605]:
+        - generic [ref=e2606]:
+          - generic [ref=e2607]:
+            - heading "Frequently Asked Questions" [level=2] [ref=e2608]
+            - generic [ref=e2609]: Still have questions? Our support team is here to help with pricing, distribution, and publication.
+          - link "Contact Support" [ref=e2610] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e2611]:
+          - generic [ref=e2612]:
+            - button "How much does press release distribution cost?" [expanded] [ref=e2613] [cursor=pointer]
+            - paragraph [ref=e2619]:
+              - text: In 2026, legacy wires typically start between $350 and $800, with enterprise packages often exceeding $2,000 once you factor in membership fees, word count surcharges, and other
+              - link "hidden costs in press release distribution" [ref=e2620] [cursor=pointer]:
+                - /url: https://easyprwire.com/blog/hidden-costs-in-pr-distribution
+              - text: . EasyPRWire starts at just $89 and scales to $799.
+          - button "Is EasyPRWire a subscription or a one time payment?" [ref=e2622] [cursor=pointer]
+          - button "What is the average cost of a single press release in 2026?" [ref=e2628] [cursor=pointer]
+          - button "Is press release distribution worth it for small businesses?" [ref=e2634] [cursor=pointer]
+          - button "Is press release writing included in the price?" [ref=e2640] [cursor=pointer]
+          - button "Can I get a refund if the placement doesn't go through?" [ref=e2646] [cursor=pointer]
+          - button "Is EasyPRwire a good alternative to enterprise platforms like Cision?" [ref=e2652] [cursor=pointer]
+      - generic [ref=e2658]:
+        - generic [ref=e2659]:
+          - heading "Ready to Start Your Press Release Distribution?" [level=2] [ref=e2660]
+          - paragraph [ref=e2662]: Join thousands of brands getting guaranteed media coverage. Select your package and go live in as little as 24 hrs.
+        - generic [ref=e2663]:
+          - link "Publish My Release" [ref=e2664] [cursor=pointer]:
+            - /url: https://easyprwire.com/press-release-distribution
+          - link "Contact Sales" [ref=e2667] [cursor=pointer]:
+            - /url: https://easyprwire.com/contact
+        - generic [ref=e2668]:
+          - generic [ref=e2669]: Secure Checkout
+          - generic [ref=e2674]: 100% Guaranteed Delivery
+          - generic [ref=e2679]: Full Refund Policy
+    - contentinfo [ref=e2685]:
+      - generic [ref=e2686]:
+        - generic [ref=e2687]:
+          - generic [ref=e2699]:
+            - generic [ref=e2700]:
+              - generic [ref=e2701]:
+                - heading "Useful Resources" [level=4] [ref=e2702]
+                - list [ref=e2703]:
+                  - listitem [ref=e2704]:
+                    - link "Free PR Templates" [ref=e2705] [cursor=pointer]:
+                      - /url: https://easyprwire.com/blog/press-release-templates-download-free
+                  - listitem [ref=e2706]:
+                    - link "Free PR Headline Ideas" [ref=e2707] [cursor=pointer]:
+                      - /url: https://easyprwire.com/blog/free-pr-headline-ideas
+                  - listitem [ref=e2708]:
+                    - link "PR Writing Guidelines" [ref=e2709] [cursor=pointer]:
+                      - /url: https://easyprwire.com/blog/pr-writing-guidelines
+                  - listitem [ref=e2710]:
+                    - link "Help Center" [ref=e2711] [cursor=pointer]:
+                      - /url: /faqs
+                  - listitem [ref=e2712]:
+                    - link "Blogs" [ref=e2713] [cursor=pointer]:
+                      - /url: /blog
+                  - listitem [ref=e2714]:
+                    - link "News Rooms" [ref=e2715] [cursor=pointer]:
+                      - /url: /newsroom
+                  - listitem [ref=e2716]:
+                    - link "FAQs" [ref=e2717] [cursor=pointer]:
+                      - /url: /faqs
+                  - listitem [ref=e2718]:
+                    - link "Comparison" [ref=e2719] [cursor=pointer]:
+                      - /url: /compare
+              - generic [ref=e2720]:
+                - heading "Services" [level=4] [ref=e2721]
+                - list [ref=e2722]:
+                  - listitem [ref=e2723]:
+                    - link "SaaS PR" [ref=e2724] [cursor=pointer]:
+                      - /url: /industries/saas-press-release-distribution
+                  - listitem [ref=e2725]:
+                    - link "Ecommerce PR" [ref=e2726] [cursor=pointer]:
+                      - /url: /industries/press-release-for-ecommerce
+                  - listitem [ref=e2727]:
+                    - link "Fintech PR" [ref=e2728] [cursor=pointer]:
+                      - /url: /industries/fintech-press-release-distribution
+                  - listitem [ref=e2729]:
+                    - link "Real Estate PR" [ref=e2730] [cursor=pointer]:
+                      - /url: /industries/real-estate-press-release-distribution
+                  - listitem [ref=e2731]:
+                    - link "Startup PR" [ref=e2732] [cursor=pointer]:
+                      - /url: /industries/startup-press-release-distribution
+              - generic [ref=e2733]:
+                - heading "Company" [level=4] [ref=e2734]
+                - list [ref=e2735]:
+                  - listitem [ref=e2736]:
+                    - link "About Us" [ref=e2737] [cursor=pointer]:
+                      - /url: /about
+                  - listitem [ref=e2738]:
+                    - link "Contact Us" [ref=e2739] [cursor=pointer]:
+                      - /url: /contact
+                  - listitem [ref=e2740]:
+                    - link "Customer Reviews" [ref=e2741] [cursor=pointer]:
+                      - /url: /#customer-reviews
+                  - listitem [ref=e2742]:
+                    - link "Plans & Pricing" [ref=e2743] [cursor=pointer]:
+                      - /url: /pricings
+                  - listitem [ref=e2744]:
+                    - link "Verify Team" [ref=e2745] [cursor=pointer]:
+                      - /url: /verify-team
+            - generic [ref=e2746]:
+              - generic [ref=e2747]:
+                - heading "Stay Ahead with PR Insights & Industry Updates" [level=4] [ref=e2748]
+                - paragraph [ref=e2749]: Get expert press release tips, media distribution strategies, and the latest industry news delivered straight to your inbox.
+              - generic [ref=e2751]:
+                - textbox "Enter your email address" [ref=e2752]
+                - button "Subscribe" [ref=e2753] [cursor=pointer]
+          - generic [ref=e2756]:
+            - generic [ref=e2757]:
+              - generic [ref=e2758]:
+                - paragraph [ref=e2759]: The most transparent press release distribution service for modern brands and agencies. Outcome-driven PR.
+                - paragraph [ref=e2760]: 701 Tillery Street Unit 12, Austin, TX, 78702, US
+              - generic [ref=e2761]:
+                - link "Facebook" [ref=e2762] [cursor=pointer]:
+                  - /url: https://www.facebook.com/easyprwire/
+                - link "LinkedIn" [ref=e2765] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/easyprwire/
+                - link "Instagram" [ref=e2768] [cursor=pointer]:
+                  - /url: https://www.instagram.com/easypr_wire?igsh=MXNrMzY2bzdjNzF5Nw%3D%3D
+                - link "YouTube" [ref=e2773] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCCrQzT7exyzMV-9ODnQrTFQ
+            - generic [ref=e2777]:
+              - heading "Get In Touch" [level=4] [ref=e2778]
+              - generic [ref=e2779]:
+                - generic [ref=e2785]:
+                  - generic [ref=e2786]: Email Support
+                  - link "support@easyprwire.com" [ref=e2787] [cursor=pointer]:
+                    - /url: mailto:support@easyprwire.com
+                - generic [ref=e2792]:
+                  - generic [ref=e2793]: Call Us (Mon-Fri)
+                  - link "+1 (888) 555-0123" [ref=e2794] [cursor=pointer]:
+                    - /url: tel:+18885550123
+          - generic [ref=e2795]:
+            - link "Terms & Conditions" [ref=e2797] [cursor=pointer]:
+              - /url: /terms-and-condition
+            - link "Privacy Policy" [ref=e2800] [cursor=pointer]:
+              - /url: /privacy-policy
+            - link "Refund Policy" [ref=e2803] [cursor=pointer]:
+              - /url: /refund-policy
+        - generic [ref=e2804]:
+          - paragraph [ref=e2805]: © 2026 EasyPRWire. All Rights Reserved.
+          - generic [ref=e2806]:
+            - generic [ref=e2807]: Verified Placements
+            - generic [ref=e2812]: Secure Platform
+  - alert [ref=e1172]: Press Release Distribution Pricing & Plans | EasyPRwire

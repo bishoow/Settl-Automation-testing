@@ -1,0 +1,671 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - banner [ref=e4]:
+        - generic [ref=e6]:
+          - link [ref=e7] [cursor=pointer]:
+            - /url: /
+          - navigation [ref=e19]:
+            - button [ref=e21] [cursor=pointer]
+            - link "Single Distribution" [ref=e26] [cursor=pointer]:
+              - /url: /choose-a-site
+            - link "Pricing" [ref=e28] [cursor=pointer]:
+              - /url: /pricings
+            - link "Blogs" [ref=e30] [cursor=pointer]:
+              - /url: /blog
+            - button "Sample Report" [ref=e32] [cursor=pointer]
+            - button "Industries" [ref=e36] [cursor=pointer]
+            - link "Contact" [ref=e40] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e43]:
+        - button "Order Status" [ref=e44] [cursor=pointer]
+        - link "Order Now" [ref=e49] [cursor=pointer]:
+          - /url: /pricings#packages
+      - dialog:
+        - generic:
+          - generic:
+            - button
+          - generic: Order Status
+          - generic: Please fill the Order ID provided in the email
+          - generic:
+            - textbox "Order ID 213-WA233F"
+            - button
+    - generic:
+      - generic [ref=e54]:
+        - button "Scroll to top"
+      - link [ref=e55] [cursor=pointer]:
+        - /url: https://wa.me/447700156964
+    - main [ref=e58]:
+      - generic [ref=e59]:
+        - generic [ref=e63]:
+          - generic [ref=e64]:
+            - generic [ref=e65]:
+              - paragraph [ref=e67]:
+                - text: Rated
+                - strong [ref=e68]:
+                  - emphasis [ref=e69]: 4.3/5
+                - text: on Trustpilot.
+                - strong [ref=e70]:
+                  - emphasis [ref=e71]: 40,000+ Press Releases Distributed
+                - text: for Brands Worldwide
+              - heading [level=1] [ref=e72]:
+                - text: Get Your Press Release Published on AP News, Business Insider, Yahoo Finance &
+                - emphasis [ref=e73]: 400+ Real News Outlets
+            - paragraph [ref=e75]: One time pricing from $89 for guaranteed press release distribution, no subscriptions, no hidden fees. Full refund if we don't place your release on real media outlets in your plan.
+          - generic [ref=e76]:
+            - generic [ref=e77]:
+              - link "Submit Your Press Release" [ref=e78] [cursor=pointer]:
+                - /url: https://easyprwire.com/press-release-distribution#packages
+              - link "See Distribution Plans & Outlets" [ref=e81] [cursor=pointer]:
+                - /url: https://easyprwire.com/pricings
+            - generic [ref=e82]:
+              - generic [ref=e83]:
+                - img "Guaranteed Media Placement" [ref=e85]
+                - generic [ref=e86]: Guaranteed Media Placement
+              - generic [ref=e87]:
+                - img "Verified & Live Press Release Links" [ref=e89]
+                - generic [ref=e90]: Verified & Live Press Release Links
+              - generic [ref=e91]:
+                - img "Full Refund Guarantee" [ref=e93]
+                - generic [ref=e94]: Full Refund Guarantee
+        - generic [ref=e96]:
+          - paragraph [ref=e97]: Distributed Across 400+ Verified Outlets
+          - generic [ref=e100]:
+            - img "Chat GPT" [ref=e101]
+            - img "Claude" [ref=e102]
+            - img "Yahoo Finance" [ref=e103]
+            - img "Benzinga" [ref=e104]
+            - img "Msn" [ref=e105]
+            - img "Reuters" [ref=e106]
+            - img "Chat GPT" [ref=e107]
+            - img "Claude" [ref=e108]
+            - img "Yahoo Finance" [ref=e109]
+            - img "Benzinga" [ref=e110]
+            - img "Msn" [ref=e111]
+            - img "Reuters" [ref=e112]
+            - img "Chat GPT" [ref=e113]
+            - img "Claude" [ref=e114]
+            - img "Yahoo Finance" [ref=e115]
+            - img "Benzinga" [ref=e116]
+            - img "Msn" [ref=e117]
+            - img "Reuters" [ref=e118]
+      - generic [ref=e140]:
+        - generic [ref=e141]:
+          - 'heading "The Old Way vs. EasyPRwire: A Better Way to Distribute Press Releases" [level=2] [ref=e142]'
+          - paragraph [ref=e144]: Legacy press release distribution often comes with subscriptions, hidden fees, and no clear idea of where your release will actually appear. EasyPRwire works differently, offering transparent, one time pricing and guaranteed placement on real news outlets like AP News, Benzinga, Business Insider, Yahoo Finance, and more.
+        - generic [ref=e145]:
+          - generic [ref=e146]:
+            - generic [ref=e147]: Traditional Newswires
+            - heading [level=3] [ref=e149]:
+              - text: Subscriptions,
+              - emphasis [ref=e150]: hidden fees
+              - text: ", and no idea where your release will run."
+            - paragraph [ref=e152]: Recurring subscriptions or unpredictable per release costs, hidden charges for word count, images, or add ons, and outlets that stay unclear until after you've paid.
+            - generic [ref=e153]:
+              - generic [ref=e154]: Recurring subscriptions or unpredictable costs
+              - generic [ref=e155]: Hidden charges for words and images
+              - generic [ref=e156]: Outlets unclear until you've paid
+              - generic [ref=e157]: Contracts and recurring commitments
+              - generic [ref=e158]: Guarantees rarely offered
+              - generic [ref=e159]: Little to no verification after distribution
+          - generic [ref=e160]:
+            - generic [ref=e161]: EasyPRwire
+            - heading [level=3] [ref=e163]:
+              - text: Transparent,
+              - emphasis [ref=e164]: one time pricing
+              - text: with
+              - emphasis [ref=e165]: guaranteed placement
+              - text: .
+            - paragraph [ref=e167]: One time pricing starting at $89, with real named outlets like AP News and Yahoo Finance listed upfront, no contracts, and a full refund if we don't publish on your plan's outlets.
+            - generic [ref=e168]:
+              - generic [ref=e169]: One time pricing, starting at $89
+              - generic [ref=e172]: No hidden fees, what you see is what you pay
+              - generic [ref=e175]: Real, named outlets listed upfront
+              - generic [ref=e178]: No contracts, pay only when you need distribution
+              - generic [ref=e181]: Full refund if we don't publish on your outlets
+              - generic [ref=e184]: Live links you can verify after publication
+      - generic [ref=e189]:
+        - generic [ref=e190]:
+          - heading "Our 3 Step Press Release Distribution Process" [level=2] [ref=e191]
+          - paragraph [ref=e193]: From submission to publication, EasyPRWire follows a structured distribution process that ensures your press release reaches established news and media websites included in your selected package, with full transparency at every step.
+        - generic [ref=e194]:
+          - generic [ref=e195]:
+            - generic [ref=e196]:
+              - generic [ref=e197]: "01"
+              - generic [ref=e198]:
+                - heading "Submit Your Press Release" [level=3] [ref=e199]
+                - paragraph [ref=e201]:
+                  - text: Choose a press release distribution package,
+                  - link "compare distribution sites" [ref=e202] [cursor=pointer]:
+                    - /url: https://easyprwire.com/choose-a-site
+                  - text: to find the right fit, and receive clear publication reports with live links. You can upload a ready draft or request writing assistance if needed. Each submission is prepared according to standard press release formatting requirements before distribution.
+            - img "Submit Your Press Release" [ref=e204]
+          - generic [ref=e205]:
+            - generic [ref=e206]:
+              - generic [ref=e207]: "02"
+              - generic [ref=e208]:
+                - heading "Distribution Across News and Media Websites" [level=3] [ref=e209]
+                - paragraph [ref=e211]: After submission, your press release enters the distribution queue and is shared with news and media websites included in your package. Publication follows press release syndication guidelines commonly used across digital news platforms.
+            - img "Distribution Across News and Media Websites" [ref=e213]
+          - generic [ref=e214]:
+            - generic [ref=e215]:
+              - generic [ref=e216]: "03"
+              - generic [ref=e217]:
+                - heading "Publication Report and Live Links" [level=3] [ref=e218]
+                - paragraph [ref=e220]:
+                  - text: After distribution, you’ll receive a report with live URLs for verification and brand visibility. Before choosing, check how EasyPR ranks among the
+                  - link "top PR distribution USA" [ref=e221] [cursor=pointer]:
+                    - /url: https://easyprwire.com/blog/best-press-release-distribution-services-usa
+                  - text: providers in our detailed breakdown of ratings, pricing, and features.
+            - img "Publication Report and Live Links" [ref=e223]
+      - generic [ref=e226]:
+        - generic [ref=e227]:
+          - heading "Transparent Press Release Distribution Pricing With One Time Plans" [level=2] [ref=e228]
+          - paragraph [ref=e230]:
+            - text: Select a press release distribution package based on your reach and goals. EasyPRWire offers one time pricing with no recurring fees and no long term commitments, so you only pay for the coverage you need.
+            - emphasis [ref=e231]: Elite is where most first time customers land,
+            - text: because of its balance of reach and value.
+        - generic [ref=e232]:
+          - generic [ref=e234]:
+            - generic [ref=e235]:
+              - heading "Starter" [level=3] [ref=e237]
+              - generic [ref=e238]:
+                - generic [ref=e239]:
+                  - generic [ref=e240]: $89
+                  - generic [ref=e241]: / PR
+                - paragraph [ref=e242]: Perfect for startups and small businesses.
+                - generic [ref=e243]:
+                  - img "The Street Logo" [ref=e245]
+                  - img "StreetInsider.com" [ref=e247]
+                  - img "Finance Feeds" [ref=e249]
+            - generic [ref=e250]:
+              - list [ref=e251]:
+                - listitem [ref=e252]:
+                  - generic [ref=e256]: Distribution to 300+ News Publications
+                - listitem [ref=e257]:
+                  - generic [ref=e261]: AI Discoverability (ChatGPT, Perplexity)
+                - listitem [ref=e262]:
+                  - generic [ref=e266]: Search Optimized Title & Meta Tags
+                - listitem [ref=e267]:
+                  - generic [ref=e271]: Distributed to U.S. TV/Radio Affiliate Websites Based on Relevance
+              - generic [ref=e272]:
+                - link "Select Starter" [ref=e273] [cursor=pointer]:
+                  - /url: /checkout/starter
+                - button "View All Included Outlets" [ref=e274] [cursor=pointer]
+                - link "View Sample Report" [ref=e277] [cursor=pointer]:
+                  - /url: /sample-report/starter
+          - generic [ref=e282]:
+            - generic [ref=e283]:
+              - heading "Elite" [level=3] [ref=e285]
+              - generic [ref=e286]:
+                - generic [ref=e287]:
+                  - generic [ref=e288]: $199
+                  - generic [ref=e289]: / PR
+                - paragraph [ref=e290]: Ideal for growing brands and marketing teams.
+                - generic [ref=e291]:
+                  - img "openPR" [ref=e293]
+                  - img "The Street Logo" [ref=e295]
+                  - img "StreetInsider.com" [ref=e297]
+            - generic [ref=e298]:
+              - list [ref=e299]:
+                - listitem [ref=e300]:
+                  - generic [ref=e304]: Distribution to 400+ News Publications
+                - listitem [ref=e305]:
+                  - generic [ref=e309]: AI Discoverability (ChatGPT, Perplexity)
+                - listitem [ref=e310]:
+                  - generic [ref=e314]: 24-Hour Editorial Review
+              - generic [ref=e315]:
+                - link "Select Elite" [ref=e316] [cursor=pointer]:
+                  - /url: https://easyprwire.com/checkout/elite
+                - button "View All Included Outlets" [ref=e317] [cursor=pointer]
+                - link "View Sample Report" [ref=e320] [cursor=pointer]:
+                  - /url: /sample-report/elite
+          - generic [ref=e324]:
+            - generic [ref=e325]: Most Popular
+            - generic [ref=e326]:
+              - generic [ref=e327]:
+                - heading "Premium" [level=3] [ref=e329]
+                - generic [ref=e330]:
+                  - generic [ref=e331]:
+                    - generic [ref=e332]: $499
+                    - generic [ref=e333]: / PR
+                  - paragraph [ref=e334]: Designed for brands that want broader reach
+                  - generic [ref=e335]:
+                    - img "Yahoo Finance!" [ref=e337]
+                    - img "Business Insider" [ref=e339]
+                    - img "Benzinga" [ref=e341]
+              - generic [ref=e342]:
+                - list [ref=e343]:
+                  - listitem [ref=e344]:
+                    - generic [ref=e348]: 500+ Media Placements
+                  - listitem [ref=e349]:
+                    - generic [ref=e353]: Yahoo! Finance & News, Associated Press (AP)
+                  - listitem [ref=e354]:
+                    - generic [ref=e358]: Journalist Outreach
+                  - listitem [ref=e359]:
+                    - generic [ref=e363]: Priority Editorial Queue
+                - generic [ref=e364]:
+                  - link "Select Premium" [ref=e365] [cursor=pointer]:
+                    - /url: https://easyprwire.com/checkout/premium
+                  - button "View All Included Outlets" [ref=e366] [cursor=pointer]
+                  - link "View Sample Report" [ref=e369] [cursor=pointer]:
+                    - /url: /sample-report/premium
+          - generic [ref=e374]:
+            - generic [ref=e375]:
+              - heading "Ultimate" [level=3] [ref=e377]
+              - generic [ref=e378]:
+                - generic [ref=e379]:
+                  - generic [ref=e380]: $799
+                  - generic [ref=e381]: / PR
+                - paragraph [ref=e382]: Built for maximum reach, visibility, and impact.
+                - generic [ref=e383]:
+                  - img "Yahoo Finance!" [ref=e385]
+                  - img "msn" [ref=e387]
+                  - img "AP News" [ref=e389]
+                  - img "Barchart" [ref=e391]
+            - generic [ref=e392]:
+              - list [ref=e393]:
+                - listitem [ref=e394]:
+                  - generic [ref=e398]: 600+ Media Placements
+                - listitem [ref=e399]:
+                  - generic [ref=e403]: Top Financial Networks
+                - listitem [ref=e404]:
+                  - generic [ref=e408]: Dedicated Account Manager
+                - listitem [ref=e409]:
+                  - generic [ref=e413]: White-Label PDF Reports
+              - generic [ref=e414]:
+                - link "Select Ultimate" [ref=e415] [cursor=pointer]:
+                  - /url: https://easyprwire.com/checkout/ultimate
+                - button "View All Included Outlets" [ref=e416] [cursor=pointer]
+                - link "View Sample Report" [ref=e419] [cursor=pointer]:
+                  - /url: /sample-report/ultimate
+        - generic [ref=e423]:
+          - generic [ref=e424]:
+            - img "NO CONTRACTS" [ref=e426]
+            - text: NO CONTRACTS
+          - generic [ref=e427]:
+            - img "NO HIDDEN FEES" [ref=e429]
+            - text: NO HIDDEN FEES
+          - generic [ref=e430]:
+            - img "ONE TIME PAYMENT" [ref=e432]
+            - text: ONE TIME PAYMENT
+          - generic [ref=e433]:
+            - img "Full REFUND GUARANTEED" [ref=e435]
+            - text: Full REFUND GUARANTEED
+        - paragraph [ref=e441]: Not sure where to start? Most first time customers choose the Elite plan. You can always upgrade later as your PR needs grow.
+      - generic [ref=e444]:
+        - generic [ref=e445]: Zero risk
+        - generic [ref=e446]:
+          - generic [ref=e449]:
+            - generic [ref=e450]:
+              - heading "Money Back Guarantee" [level=2] [ref=e451]
+              - paragraph [ref=e453]: If a press release cannot be published on the selected news websites, a full refund is provided. EasyPRWire stands behind its press release distribution service and customer satisfaction.
+            - generic [ref=e454]: 99.99% Guaranteed Press Release
+          - generic [ref=e455]:
+            - generic [ref=e456]: Guaranteed Publication
+            - generic [ref=e459]: No Hidden Agreements
+            - generic [ref=e462]: One Time Plans
+      - generic [ref=e467]:
+        - generic [ref=e468]:
+          - heading "Press Release Distribution That Delivers Results" [level=2] [ref=e469]
+          - paragraph [ref=e471]: See how brands used EasyPRwire to get featured on top outlets like AP News, Benzinga, and Yahoo Finance. From startups to established companies, real clients trust us to deliver visibility that grows their brand.
+        - generic [ref=e472]:
+          - button "TherapyGo" [ref=e473] [cursor=pointer]
+          - button "AIsa" [ref=e474] [cursor=pointer]
+          - button "Traini" [ref=e475] [cursor=pointer]
+        - generic [ref=e477]:
+          - generic [ref=e478]:
+            - generic [ref=e479]:
+              - heading "TherapyGo" [level=3] [ref=e480]
+              - img "TherapyGo" [ref=e482]
+            - generic [ref=e483]:
+              - generic [ref=e484]:
+                - generic [ref=e485]: "Goals:"
+                - generic [ref=e486]: Build organic visibility and trust for online therapy
+              - generic [ref=e487]:
+                - generic [ref=e488]: "Problems:"
+                - generic [ref=e489]: Low brand awareness in crowded teletherapy market
+              - generic [ref=e490]:
+                - generic [ref=e491]: "Solution:"
+                - generic [ref=e492]: Digital press release to boost credibility and SEO
+            - generic [ref=e493]:
+              - generic [ref=e494]: "Featured On:"
+              - generic [ref=e495]:
+                - img "Yahoo Finance" [ref=e497]
+                - img "Associated Press" [ref=e499]
+                - img "Benzinga" [ref=e501]
+                - img "Business Insider" [ref=e503]
+                - img "Street Insider" [ref=e505]
+                - img "Msn" [ref=e507]
+            - generic [ref=e508]:
+              - paragraph [ref=e522]: Working with EasyPRwire was smooth from start to finish, and the results speak for themselves.
+              - generic [ref=e523]: Founder, TherapyGo
+            - link "Read Full Story" [ref=e524] [cursor=pointer]:
+              - /url: https://finance.yahoo.com/technology/ai/articles/therapygo-announces-milestone-ai-powered-170600053.html
+          - generic [ref=e525]:
+            - img "TherapyGo" [ref=e526]
+            - generic [ref=e527]:
+              - generic [ref=e528]:
+                - generic [ref=e529]: Media
+                - generic [ref=e530]: 150+
+              - generic [ref=e531]:
+                - generic [ref=e532]: Organic Growth
+                - generic [ref=e533]: 180 %
+              - generic [ref=e534]:
+                - generic [ref=e535]: Sessions Booked
+                - generic [ref=e536]: 320+
+              - generic [ref=e537]:
+                - generic [ref=e538]: Search Rankings
+                - generic [ref=e539]: 45+
+      - generic [ref=e541]:
+        - generic [ref=e543]:
+          - heading "What Our Clients Say About EasyPRwire" [level=2] [ref=e544]
+          - paragraph [ref=e546]: From startups to established brands, here's what clients say about working with us before, during, and after distribution.
+        - generic [ref=e548]:
+          - generic [ref=e549]:
+            - paragraph [ref=e563]: “The entire process felt smooth and well managed. The team stayed responsive throughout, and our press release was published quickly across reputable platforms. EasyPRWire made distribution simple and effective.”
+            - generic [ref=e564]:
+              - img "HTR Care" [ref=e566]
+              - generic [ref=e567]: HTR Care
+          - generic [ref=e569]:
+            - paragraph [ref=e583]: “I have used many press release organizations. This one is so great, response time is almost immediately, and coverage/ distribution is far- reaching. I would use them again.”
+            - generic [ref=e584]:
+              - img "Chef Michael Bennet" [ref=e586]
+              - generic [ref=e587]: Chef Michael Bennet
+          - generic [ref=e589]:
+            - paragraph [ref=e603]: “We’ve worked with EasyPRwire on multiple press release distributions, and the experience has been consistently smooth and reliable. Their platform is easy to use, turnaround times are fast, and placements are delivered exactly as promised.”
+            - generic [ref=e604]:
+              - img "Vicky Ginsberg" [ref=e606]
+              - generic [ref=e607]: Vicky Ginsberg
+          - generic [ref=e609]:
+            - paragraph [ref=e623]: “The entire process felt smooth and well managed. The team stayed responsive throughout, and our press release was published quickly across reputable platforms. EasyPRWire made distribution simple and effective.”
+            - generic [ref=e624]:
+              - img "HTR Care" [ref=e626]
+              - generic [ref=e627]: HTR Care
+          - generic [ref=e629]:
+            - paragraph [ref=e643]: “I have used many press release organizations. This one is so great, response time is almost immediately, and coverage/ distribution is far- reaching. I would use them again.”
+            - generic [ref=e644]:
+              - img "Chef Michael Bennet" [ref=e646]
+              - generic [ref=e647]: Chef Michael Bennet
+          - generic [ref=e649]:
+            - paragraph [ref=e663]: “We’ve worked with EasyPRwire on multiple press release distributions, and the experience has been consistently smooth and reliable. Their platform is easy to use, turnaround times are fast, and placements are delivered exactly as promised.”
+            - generic [ref=e664]:
+              - img "Vicky Ginsberg" [ref=e666]
+              - generic [ref=e667]: Vicky Ginsberg
+        - generic [ref=e670]:
+          - generic [ref=e671]:
+            - paragraph [ref=e685]: “The entire process felt smooth and well managed. The team stayed responsive throughout, and our press release was published quickly across reputable platforms. EasyPRWire made distribution simple and effective.”
+            - generic [ref=e686]:
+              - img "HTR Care" [ref=e688]
+              - generic [ref=e689]: HTR Care
+          - generic [ref=e691]:
+            - paragraph [ref=e705]: “I have used many press release organizations. This one is so great, response time is almost immediately, and coverage/ distribution is far- reaching. I would use them again.”
+            - generic [ref=e706]:
+              - img "Chef Michael Bennet" [ref=e708]
+              - generic [ref=e709]: Chef Michael Bennet
+          - generic [ref=e711]:
+            - paragraph [ref=e725]: “We’ve worked with EasyPRwire on multiple press release distributions, and the experience has been consistently smooth and reliable. Their platform is easy to use, turnaround times are fast, and placements are delivered exactly as promised.”
+            - generic [ref=e726]:
+              - img "Vicky Ginsberg" [ref=e728]
+              - generic [ref=e729]: Vicky Ginsberg
+          - generic [ref=e731]:
+            - paragraph [ref=e745]: “The entire process felt smooth and well managed. The team stayed responsive throughout, and our press release was published quickly across reputable platforms. EasyPRWire made distribution simple and effective.”
+            - generic [ref=e746]:
+              - img "HTR Care" [ref=e748]
+              - generic [ref=e749]: HTR Care
+          - generic [ref=e751]:
+            - paragraph [ref=e765]: “I have used many press release organizations. This one is so great, response time is almost immediately, and coverage/ distribution is far- reaching. I would use them again.”
+            - generic [ref=e766]:
+              - img "Chef Michael Bennet" [ref=e768]
+              - generic [ref=e769]: Chef Michael Bennet
+          - generic [ref=e771]:
+            - paragraph [ref=e785]: “We’ve worked with EasyPRwire on multiple press release distributions, and the experience has been consistently smooth and reliable. Their platform is easy to use, turnaround times are fast, and placements are delivered exactly as promised.”
+            - generic [ref=e786]:
+              - img "Vicky Ginsberg" [ref=e788]
+              - generic [ref=e789]: Vicky Ginsberg
+      - generic [ref=e793]:
+        - generic [ref=e794]:
+          - heading "Why Businesses Choose EasyPRWire for Press Release Distribution?" [level=2] [ref=e796]
+          - paragraph [ref=e798]: EasyPRWire focuses on clarity, transparency, and predictable press release distribution. The platform is built for brands and agencies that want straightforward publishing, verifiable results, and pricing without long term commitments.
+        - generic [ref=e799]:
+          - generic [ref=e800]:
+            - generic [ref=e801]:
+              - img "Over a Decade of Experience in Press Release Distribution" [ref=e804]
+              - generic [ref=e805]: "01"
+            - generic [ref=e806]:
+              - heading "Over a Decade of Experience in Press Release Distribution" [level=3] [ref=e807]
+              - paragraph [ref=e809]: EasyPRWire is backed by more than 10 years of experience working with press release distribution, media publication standards, and digital news platforms. That experience shapes how distribution packages, reporting, and turnaround expectations are structured.
+          - generic [ref=e810]:
+            - generic [ref=e811]:
+              - img "Clear and Honest Distribution Model" [ref=e814]
+              - generic [ref=e815]: "02"
+            - generic [ref=e816]:
+              - heading "Clear and Honest Distribution Model" [level=3] [ref=e817]
+              - paragraph [ref=e819]: Press releases are distributed based on clearly defined packages. Media reach, reporting, and turnaround expectations are outlined upfront, helping customers make informed decisions without hidden conditions.
+          - generic [ref=e820]:
+            - generic [ref=e821]:
+              - img "One Time Pricing With No Lock In" [ref=e824]
+              - generic [ref=e825]: "03"
+            - generic [ref=e826]:
+              - heading "One Time Pricing With No Lock In" [level=3] [ref=e827]
+              - paragraph [ref=e829]: EasyPRWire operates on one time pricing rather than subscriptions. Brands can publish press releases as needed without recurring fees or ongoing commitments.
+          - generic [ref=e830]:
+            - generic [ref=e831]:
+              - img "Verifiable Media Publications" [ref=e834]
+              - generic [ref=e835]: "04"
+            - generic [ref=e836]:
+              - heading "Verifiable Media Publications" [level=3] [ref=e837]
+              - paragraph [ref=e839]: Every distribution includes access to live publication links from media websites where the press release appears. Published URLs allow teams to confirm coverage and reference placements confidently.
+          - generic [ref=e840]:
+            - generic [ref=e841]: "05"
+            - generic [ref=e847]:
+              - heading "Built for Both Brands and Agencies" [level=3] [ref=e848]
+              - paragraph [ref=e850]: The platform supports individual businesses, startups, and marketing agencies managing multiple clients. Package based distribution and reporting make it easier to manage multiple press releases at scale.
+          - generic [ref=e851]:
+            - generic [ref=e852]: "06"
+            - generic [ref=e858]:
+              - heading "Focused Exclusively on Press Release Distribution" [level=3] [ref=e859]
+              - paragraph [ref=e861]: EasyPRWire is dedicated to press release distribution rather than bundled marketing services. That focus supports consistent processes, clearer expectations, and reliable publication outcomes.
+      - generic [ref=e864]:
+        - generic [ref=e865]:
+          - heading "Press Release Distribution Built for Every Industry" [level=2] [ref=e866]
+          - generic [ref=e867]:
+            - paragraph [ref=e868]: From startups to agencies, we help businesses across industries get real media coverage on outlets that matter to their audience.
+            - paragraph [ref=e869]
+        - generic [ref=e870]:
+          - generic [ref=e873]:
+            - heading "Startups" [level=3] [ref=e874]
+            - paragraph [ref=e876]: Get startup press release distribution that builds credibility fast, announce funding rounds, product launches, and company milestones on outlets investors and customers trust.
+            - link "Explore Startup Press Release" [ref=e877] [cursor=pointer]:
+              - /url: https://easyprwire.com/industries/startup-press-release-distribution
+          - generic [ref=e882]:
+            - heading "Ecommerce" [level=3] [ref=e883]
+            - paragraph [ref=e885]: Ecommerce press release distribution that puts product launches, brand announcements, and seasonal campaigns in front of shoppers and search engines through SEO friendly media coverage.
+            - link "Explore Ecommerce Press Release" [ref=e886] [cursor=pointer]:
+              - /url: https://easyprwire.com/industries/press-release-for-ecommerce
+          - generic [ref=e891]:
+            - heading "Fintech" [level=3] [ref=e892]
+            - paragraph [ref=e894]: Fintech press release distribution designed for compliance and credibility, published on finance focused outlets like Yahoo Finance and Street Insider to reach investors and industry audiences.
+            - link "Explore Fintech Press Release" [ref=e895] [cursor=pointer]:
+              - /url: https://easyprwire.com/industries/fintech-press-release-distribution
+          - generic [ref=e900]:
+            - heading "Real Estate" [level=3] [ref=e901]
+            - paragraph [ref=e903]: Real estate press release distribution for listings, developments, and brokerage news, reach buyers, investors, and local media through trusted real estate and business outlets.
+            - link "Explore Real Estate Press Release" [ref=e904] [cursor=pointer]:
+              - /url: https://easyprwire.com/industries/real-estate-press-release-distribution
+          - generic [ref=e909]:
+            - heading "SaaS" [level=3] [ref=e910]
+            - paragraph [ref=e912]: SaaS press release distribution for product updates, funding announcements, and partnerships, get coverage on tech and business outlets your target customers already follow.
+            - link "Explore SaaS Press Release" [ref=e913] [cursor=pointer]:
+              - /url: https://easyprwire.com/industries/saas-press-release-distribution
+      - generic [ref=e917]:
+        - generic [ref=e918]:
+          - text: Solutions for
+          - emphasis [ref=e919]: Agencies
+          - text: ","
+          - emphasis [ref=e920]: Resellers
+          - text: ", and High Volume Distribution"
+        - generic [ref=e921]:
+          - generic [ref=e922]:
+            - generic [ref=e925]:
+              - heading "Press Release Distribution for Marketing Agencies and Resellers" [level=3] [ref=e926]
+              - paragraph [ref=e928]: Marketing agencies and consultants can use EasyPRWire to deliver press release distribution services to their clients. White label friendly workflows and clear reporting support client facing delivery without exposing backend processes.
+            - link "Contact Us" [ref=e929] [cursor=pointer]:
+              - /url: https://easyprwire.com/contact
+          - generic [ref=e932]:
+            - generic [ref=e935]:
+              - heading "Bulk Discounts for High Volume Press Release Orders" [level=3] [ref=e936]
+              - paragraph [ref=e938]: Brands and agencies publishing multiple press releases can reduce costs through bulk distribution pricing. Discounts apply to volume based orders and are designed for teams managing ongoing announcements and campaigns.
+            - button "See Our Bulk Discount Rate" [ref=e939] [cursor=pointer]
+      - generic [ref=e944]:
+        - generic [ref=e945]:
+          - generic [ref=e946]:
+            - heading "Frequently Asked Questions" [level=2] [ref=e947]
+            - paragraph [ref=e949]: Everything You Need to Know
+          - link "Contact Support" [ref=e950] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e951]:
+          - generic [ref=e952]:
+            - button "How much does press release distribution cost with EasyPRwire?" [expanded] [ref=e953] [cursor=pointer]
+            - paragraph [ref=e959]: EasyPRwire offers one time press release distribution packages starting at $89, with no subscriptions or recurring fees. Pricing scales by reach, with packages going up to $799 for maximum media coverage and dedicated support.
+          - button "Does EasyPRwire guarantee my press release will be published?" [ref=e961] [cursor=pointer]
+          - button "How long does it take for a press release to go live with EasyPRwire?" [ref=e967] [cursor=pointer]
+          - button "Will my press release appear on Google News?" [ref=e973] [cursor=pointer]
+          - button "Does a press release help SEO?" [ref=e979] [cursor=pointer]
+          - button "How long should a press release be?" [ref=e985] [cursor=pointer]
+          - button "What's the difference between a press release and a newswire?" [ref=e991] [cursor=pointer]
+          - button "Are press releases still effective in 2026?" [ref=e997] [cursor=pointer]
+          - button "What's the best day to send a press release?" [ref=e1003] [cursor=pointer]
+          - button "Is a press release the same as paid advertising?" [ref=e1009] [cursor=pointer]
+      - generic [ref=e1016]:
+        - generic [ref=e1017]:
+          - heading "Get Your Story Distributed to Millions, Starting Today" [level=2] [ref=e1018]
+          - paragraph [ref=e1020]: Join thousands of brands who've published their news on 400+ trusted media outlets with EasyPRwire.
+        - generic [ref=e1021]:
+          - link "Distribute My Release" [ref=e1022] [cursor=pointer]:
+            - /url: https://easyprwire.com/press-release-distribution
+          - link "Compare Plans & Pricings" [ref=e1025] [cursor=pointer]:
+            - /url: https://easyprwire.com/pricings
+        - generic [ref=e1026]:
+          - generic [ref=e1027]:
+            - img "Safe Checkout Process" [ref=e1029]
+            - generic [ref=e1030]: Safe Checkout
+          - generic [ref=e1031]:
+            - img "Guaranteed Press Release Distribution" [ref=e1033]
+            - generic [ref=e1034]: Guaranteed Publication
+          - generic [ref=e1035]:
+            - img "Money Back Guarantee" [ref=e1037]
+            - generic [ref=e1038]: Money Back Guarantee
+    - contentinfo [ref=e1040]:
+      - generic [ref=e1041]:
+        - generic [ref=e1042]:
+          - generic [ref=e1054]:
+            - generic [ref=e1055]:
+              - generic [ref=e1056]:
+                - heading "Useful Resources" [level=4] [ref=e1057]
+                - list [ref=e1058]:
+                  - listitem [ref=e1059]:
+                    - link "Free PR Templates" [ref=e1060] [cursor=pointer]:
+                      - /url: https://easyprwire.com/blog/press-release-templates-download-free
+                  - listitem [ref=e1061]:
+                    - link "Free PR Headline Ideas" [ref=e1062] [cursor=pointer]:
+                      - /url: https://easyprwire.com/blog/free-pr-headline-ideas
+                  - listitem [ref=e1063]:
+                    - link "PR Writing Guidelines" [ref=e1064] [cursor=pointer]:
+                      - /url: https://easyprwire.com/blog/pr-writing-guidelines
+                  - listitem [ref=e1065]:
+                    - link "Help Center" [ref=e1066] [cursor=pointer]:
+                      - /url: /faqs
+                  - listitem [ref=e1067]:
+                    - link "Blogs" [ref=e1068] [cursor=pointer]:
+                      - /url: /blog
+                  - listitem [ref=e1069]:
+                    - link "News Rooms" [ref=e1070] [cursor=pointer]:
+                      - /url: /newsroom
+                  - listitem [ref=e1071]:
+                    - link "FAQs" [ref=e1072] [cursor=pointer]:
+                      - /url: /faqs
+                  - listitem [ref=e1073]:
+                    - link "Comparison" [ref=e1074] [cursor=pointer]:
+                      - /url: /compare
+              - generic [ref=e1075]:
+                - heading "Services" [level=4] [ref=e1076]
+                - list [ref=e1077]:
+                  - listitem [ref=e1078]:
+                    - link "SaaS PR" [ref=e1079] [cursor=pointer]:
+                      - /url: /industries/saas-press-release-distribution
+                  - listitem [ref=e1080]:
+                    - link "Ecommerce PR" [ref=e1081] [cursor=pointer]:
+                      - /url: /industries/press-release-for-ecommerce
+                  - listitem [ref=e1082]:
+                    - link "Fintech PR" [ref=e1083] [cursor=pointer]:
+                      - /url: /industries/fintech-press-release-distribution
+                  - listitem [ref=e1084]:
+                    - link "Real Estate PR" [ref=e1085] [cursor=pointer]:
+                      - /url: /industries/real-estate-press-release-distribution
+                  - listitem [ref=e1086]:
+                    - link "Startup PR" [ref=e1087] [cursor=pointer]:
+                      - /url: /industries/startup-press-release-distribution
+              - generic [ref=e1088]:
+                - heading "Company" [level=4] [ref=e1089]
+                - list [ref=e1090]:
+                  - listitem [ref=e1091]:
+                    - link "About Us" [ref=e1092] [cursor=pointer]:
+                      - /url: /about
+                  - listitem [ref=e1093]:
+                    - link "Contact Us" [ref=e1094] [cursor=pointer]:
+                      - /url: /contact
+                  - listitem [ref=e1095]:
+                    - link "Customer Reviews" [ref=e1096] [cursor=pointer]:
+                      - /url: /#customer-reviews
+                  - listitem [ref=e1097]:
+                    - link "Plans & Pricing" [ref=e1098] [cursor=pointer]:
+                      - /url: /pricings
+                  - listitem [ref=e1099]:
+                    - link "Verify Team" [ref=e1100] [cursor=pointer]:
+                      - /url: /verify-team
+            - generic [ref=e1101]:
+              - generic [ref=e1102]:
+                - heading "Stay Ahead with PR Insights & Industry Updates" [level=4] [ref=e1103]
+                - paragraph [ref=e1104]: Get expert press release tips, media distribution strategies, and the latest industry news delivered straight to your inbox.
+              - generic [ref=e1106]:
+                - textbox "Enter your email address" [ref=e1107]
+                - button "Subscribe" [ref=e1108] [cursor=pointer]
+          - generic [ref=e1111]:
+            - generic [ref=e1112]:
+              - generic [ref=e1113]:
+                - paragraph [ref=e1114]: The most transparent press release distribution service for modern brands and agencies. Outcome-driven PR.
+                - paragraph [ref=e1115]: 701 Tillery Street Unit 12, Austin, TX, 78702, US
+              - generic [ref=e1116]:
+                - link "Facebook" [ref=e1117] [cursor=pointer]:
+                  - /url: https://www.facebook.com/easyprwire/
+                - link "LinkedIn" [ref=e1120] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/easyprwire/
+                - link "Instagram" [ref=e1123] [cursor=pointer]:
+                  - /url: https://www.instagram.com/easypr_wire?igsh=MXNrMzY2bzdjNzF5Nw%3D%3D
+                - link "YouTube" [ref=e1128] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCCrQzT7exyzMV-9ODnQrTFQ
+            - generic [ref=e1132]:
+              - heading "Get In Touch" [level=4] [ref=e1133]
+              - generic [ref=e1134]:
+                - generic [ref=e1140]:
+                  - generic [ref=e1141]: Email Support
+                  - link "support@easyprwire.com" [ref=e1142] [cursor=pointer]:
+                    - /url: mailto:support@easyprwire.com
+                - generic [ref=e1147]:
+                  - generic [ref=e1148]: Call Us (Mon-Fri)
+                  - link "+1 (888) 555-0123" [ref=e1149] [cursor=pointer]:
+                    - /url: tel:+18885550123
+          - generic [ref=e1150]:
+            - link "Terms & Conditions" [ref=e1152] [cursor=pointer]:
+              - /url: /terms-and-condition
+            - link "Privacy Policy" [ref=e1155] [cursor=pointer]:
+              - /url: /privacy-policy
+            - link "Refund Policy" [ref=e1158] [cursor=pointer]:
+              - /url: /refund-policy
+        - generic [ref=e1159]:
+          - paragraph [ref=e1160]: © 2026 EasyPRWire. All Rights Reserved.
+          - generic [ref=e1161]:
+            - generic [ref=e1162]: Verified Placements
+            - generic [ref=e1167]: Secure Platform
+  - alert [ref=e1172]

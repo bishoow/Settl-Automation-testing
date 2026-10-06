@@ -1,0 +1,2 @@
+[   22848ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ https://dashboard.settl.chat/api/proxy/api/broadcast-templates?_=1790592755853:0
+[   22849ms] [ERROR] API server error: 500 {message: The payload is invalid., exception: Illuminate\Contracts\Encryption\DecryptException, file: /var/www/html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php, line: 244, trace: Array(56)} @ https://dashboard.settl.chat/_next/static/chunks/0aqjkcbbtdd_f.js:0

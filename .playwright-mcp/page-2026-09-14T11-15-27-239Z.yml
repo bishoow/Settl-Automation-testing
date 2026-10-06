@@ -1,0 +1,99 @@
+- generic [ref=f2e1]:
+  - generic [ref=f2e2]:
+    - generic [ref=f2e3]:
+      - banner [ref=f2e4]:
+        - generic [ref=f2e6]:
+          - link [ref=f2e7] [cursor=pointer]:
+            - /url: /
+          - navigation [ref=f2e19]:
+            - button [ref=f2e21] [cursor=pointer]
+            - link "Single Distribution" [ref=f2e26] [cursor=pointer]:
+              - /url: /choose-a-site
+            - link "Pricing" [ref=f2e28] [cursor=pointer]:
+              - /url: /pricings
+            - link "Blogs" [ref=f2e30] [cursor=pointer]:
+              - /url: /blog
+            - button "Sample Report" [ref=f2e32] [cursor=pointer]
+            - button "Industries" [ref=f2e36] [cursor=pointer]
+            - link "Contact" [ref=f2e40] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=f2e43]:
+        - button "Order Status" [ref=f2e44] [cursor=pointer]
+        - link "Order Now" [ref=f2e49] [cursor=pointer]:
+          - /url: /pricings#packages
+      - dialog:
+        - generic:
+          - generic:
+            - button
+          - generic: Order Status
+          - generic: Please fill the Order ID provided in the email
+          - generic:
+            - textbox "Order ID 213-WA233F"
+            - button
+    - generic:
+      - generic [ref=f2e180]:
+        - button "Scroll to top"
+      - link [ref=f2e181] [cursor=pointer]:
+        - /url: https://wa.me/447700156964
+    - main [ref=f2e54]:
+      - generic [ref=f2e56]:
+        - generic [ref=f2e58]:
+          - generic [ref=f2e59]:
+            - heading "Order Form" [level=1] [ref=f2e60]
+            - paragraph [ref=f2e61]: Fill in your details below to get started.
+          - generic [ref=f2e62]:
+            - heading "Your Details" [level=2] [ref=f2e68]
+            - generic [ref=f2e69]:
+              - generic [ref=f2e70]:
+                - generic [ref=f2e71]: Full Name*
+                - textbox "Enter your full name" [ref=f2e72]: Playwright Test User
+              - generic [ref=f2e73]:
+                - generic [ref=f2e74]: Email Address*
+                - textbox "Enter a valid email" [ref=f2e75]: playwright.test@example.com
+              - generic [ref=f2e76]:
+                - generic [ref=f2e77]: Country*
+                - generic [ref=f2e78]:
+                  - log [ref=f2e80]: option United States, selected.
+                  - generic [ref=f2e82]:
+                    - generic [ref=f2e442]: United States
+                    - combobox [active] [ref=f2e85]
+              - generic [ref=f2e90]:
+                - generic [ref=f2e91]: Phone No.*
+                - generic [ref=f2e93]:
+                  - textbox "1 (702) 123-4567" [ref=f2e94]: +1 (170) 212-3456
+                  - 'button "United States: + 1" [ref=f2e96] [cursor=pointer]'
+        - complementary [ref=f2e99]:
+          - generic [ref=f2e101]:
+            - generic [ref=f2e102]:
+              - heading "Starter" [level=2] [ref=f2e107]
+              - paragraph [ref=f2e108]: Perfect for startups and small businesses.
+              - generic [ref=f2e109]:
+                - generic [ref=f2e110]:
+                  - generic [ref=f2e111]: Included Outlets (7)
+                  - button "View All" [ref=f2e112] [cursor=pointer]
+                - generic [ref=f2e113]:
+                  - img "Google and Bing logo side by side" [ref=f2e115]
+                  - img "The Street Logo" [ref=f2e117]
+                  - img "Finance Feeds" [ref=f2e119]
+                  - img "Newsmax" [ref=f2e121]
+                  - img "StreetInsider.com" [ref=f2e123]
+                  - img "RSS Feeds Distribution" [ref=f2e125]
+                  - button "+1 more" [ref=f2e126] [cursor=pointer]
+              - generic [ref=f2e127]:
+                - generic [ref=f2e128]: Distribution to 300+ News Publications
+                - generic [ref=f2e134]: AI Discoverability (ChatGPT, Perplexity)
+                - generic [ref=f2e140]: Search Optimized Title & Meta Tags
+                - generic [ref=f2e146]: Distributed to U.S. TV/Radio Affiliate Websites Based on Relevance
+              - generic [ref=f2e152]:
+                - generic [ref=f2e153]: Guaranteed Media Placements
+                - generic [ref=f2e157]: 100% Money-Back Guarantee
+                - generic [ref=f2e161]:
+                  - generic [ref=f2e162]: SECURE CHECKOUT
+                  - generic [ref=f2e167]: TRUSTED SELLER
+            - generic [ref=f2e172]:
+              - generic [ref=f2e173]:
+                - generic [ref=f2e174]: Total Price
+                - generic [ref=f2e175]: $89
+              - paragraph [ref=f2e176]: You'll be redirected to our secure payment page to complete your order.
+              - button "Proceed to Payment" [ref=f2e177] [cursor=pointer]
+  - alert [ref=f2e184]

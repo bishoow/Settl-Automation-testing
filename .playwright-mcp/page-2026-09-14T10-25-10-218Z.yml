@@ -1,0 +1,99 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2817]:
+    - generic [ref=e2818]:
+      - banner [ref=e2819]:
+        - generic [ref=e2821]:
+          - link [ref=e2822] [cursor=pointer]:
+            - /url: /
+          - navigation [ref=e2834]:
+            - button [ref=e2836] [cursor=pointer]
+            - link "Single Distribution" [ref=e2841] [cursor=pointer]:
+              - /url: /choose-a-site
+            - link "Pricing" [ref=e2843] [cursor=pointer]:
+              - /url: /pricings
+            - link "Blogs" [ref=e2845] [cursor=pointer]:
+              - /url: /blog
+            - button "Sample Report" [ref=e2847] [cursor=pointer]
+            - button "Industries" [ref=e2851] [cursor=pointer]
+            - link "Contact" [ref=e2855] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e2858]:
+        - button "Order Status" [ref=e2859] [cursor=pointer]
+        - link "Order Now" [ref=e2864] [cursor=pointer]:
+          - /url: /pricings#packages
+      - dialog:
+        - generic:
+          - generic:
+            - button
+          - generic: Order Status
+          - generic: Please fill the Order ID provided in the email
+          - generic:
+            - textbox "Order ID 213-WA233F"
+            - button
+    - generic:
+      - generic [ref=e2869]:
+        - button "Scroll to top"
+      - link [ref=e2870] [cursor=pointer]:
+        - /url: https://wa.me/447700156964
+    - main [ref=e2873]:
+      - generic [ref=e2875]:
+        - generic [ref=e2877]:
+          - generic [ref=e2878]:
+            - heading "Order Form" [level=1] [ref=e2879]
+            - paragraph [ref=e2880]: Fill in your details below to get started.
+          - generic [ref=e2881]:
+            - heading "Your Details" [level=2] [ref=e2887]
+            - generic [ref=e2888]:
+              - generic [ref=e2889]:
+                - generic [ref=e2890]: Full Name*
+                - textbox "Enter your full name" [ref=e2891]
+              - generic [ref=e2892]:
+                - generic [ref=e2893]: Email Address*
+                - textbox "Enter a valid email" [ref=e2894]
+              - generic [ref=e2895]:
+                - generic [ref=e2896]: Country*
+                - generic [ref=e2897]:
+                  - log [ref=e2899]
+                  - generic [ref=e2901]:
+                    - generic [ref=e2902]: Select your country
+                    - combobox [ref=e2904]
+              - generic [ref=e2909]:
+                - generic [ref=e2910]: Phone No.*
+                - generic [ref=e2912]:
+                  - textbox "1 (702) 123-4567" [ref=e2913]: "+1"
+                  - 'button "United States: + 1" [ref=e2915] [cursor=pointer]'
+        - complementary [ref=e2918]:
+          - generic [ref=e2920]:
+            - generic [ref=e2921]:
+              - heading "Starter" [level=2] [ref=e2926]
+              - paragraph [ref=e2927]: Perfect for startups and small businesses.
+              - generic [ref=e2928]:
+                - generic [ref=e2929]:
+                  - generic [ref=e2930]: Included Outlets (7)
+                  - button "View All" [ref=e2931] [cursor=pointer]
+                - generic [ref=e2932]:
+                  - img "Google and Bing logo side by side" [ref=e2934]
+                  - img "The Street Logo" [ref=e2936]
+                  - img "Finance Feeds" [ref=e2938]
+                  - img "Newsmax" [ref=e2940]
+                  - img "StreetInsider.com" [ref=e2942]
+                  - img "RSS Feeds Distribution" [ref=e2944]
+                  - button "+1 more" [ref=e2945] [cursor=pointer]
+              - generic [ref=e2946]:
+                - generic [ref=e2947]: Distribution to 300+ News Publications
+                - generic [ref=e2953]: AI Discoverability (ChatGPT, Perplexity)
+                - generic [ref=e2959]: Search Optimized Title & Meta Tags
+                - generic [ref=e2965]: Distributed to U.S. TV/Radio Affiliate Websites Based on Relevance
+              - generic [ref=e2971]:
+                - generic [ref=e2972]: Guaranteed Media Placements
+                - generic [ref=e2976]: 100% Money-Back Guarantee
+                - generic [ref=e2980]:
+                  - generic [ref=e2981]: SECURE CHECKOUT
+                  - generic [ref=e2986]: TRUSTED SELLER
+            - generic [ref=e2991]:
+              - generic [ref=e2992]:
+                - generic [ref=e2993]: Total Price
+                - generic [ref=e2994]: $89
+              - paragraph [ref=e2995]: You'll be redirected to our secure payment page to complete your order.
+              - button "Proceed to Payment" [ref=e2996] [cursor=pointer]
+  - alert [ref=e1172]: Press Release Publishing | EasyPRwire

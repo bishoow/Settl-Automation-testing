@@ -1,0 +1,99 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - banner [ref=e4]:
+        - generic [ref=e6]:
+          - link [ref=e7] [cursor=pointer]:
+            - /url: /
+          - navigation [ref=e19]:
+            - button [ref=e21] [cursor=pointer]
+            - link "Single Distribution" [ref=e26] [cursor=pointer]:
+              - /url: /choose-a-site
+            - link "Pricing" [ref=e28] [cursor=pointer]:
+              - /url: /pricings
+            - link "Blogs" [ref=e30] [cursor=pointer]:
+              - /url: /blog
+            - button "Sample Report" [ref=e32] [cursor=pointer]
+            - button "Industries" [ref=e36] [cursor=pointer]
+            - link "Contact" [ref=e40] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e43]:
+        - button "Order Status" [ref=e44] [cursor=pointer]
+        - link "Order Now" [ref=e49] [cursor=pointer]:
+          - /url: /pricings#packages
+      - dialog:
+        - generic:
+          - generic:
+            - button
+          - generic: Order Status
+          - generic: Please fill the Order ID provided in the email
+          - generic:
+            - textbox "Order ID 213-WA233F"
+            - button
+    - generic:
+      - generic [ref=e54]:
+        - button "Scroll to top"
+      - link [ref=e55] [cursor=pointer]:
+        - /url: https://wa.me/447700156964
+    - main [ref=e58]:
+      - generic [ref=e60]:
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - heading "Order Form" [level=1] [ref=e64]
+            - paragraph [ref=e65]: Fill in your details below to get started.
+          - generic [ref=e66]:
+            - heading "Your Details" [level=2] [ref=e72]
+            - generic [ref=e73]:
+              - generic [ref=e74]:
+                - generic [ref=e75]: Full Name*
+                - textbox "Enter your full name" [ref=e76]
+              - generic [ref=e77]:
+                - generic [ref=e78]: Email Address*
+                - textbox "Enter a valid email" [ref=e79]
+              - generic [ref=e80]:
+                - generic [ref=e81]: Country*
+                - generic [ref=e82]:
+                  - log [ref=e84]
+                  - generic [ref=e86]:
+                    - generic [ref=e87]: Select your country
+                    - combobox [ref=e89]
+              - generic [ref=e94]:
+                - generic [ref=e95]: Phone No.*
+                - generic [ref=e97]:
+                  - textbox "1 (702) 123-4567" [ref=e98]: "+1"
+                  - 'button "United States: + 1" [ref=e100] [cursor=pointer]'
+        - complementary [ref=e103]:
+          - generic [ref=e105]:
+            - generic [ref=e106]:
+              - heading "Starter" [level=2] [ref=e111]
+              - paragraph [ref=e112]: Perfect for startups and small businesses.
+              - generic [ref=e113]:
+                - generic [ref=e114]:
+                  - generic [ref=e115]: Included Outlets (7)
+                  - button "View All" [ref=e116] [cursor=pointer]
+                - generic [ref=e117]:
+                  - img "Google and Bing logo side by side" [ref=e119]
+                  - img "The Street Logo" [ref=e121]
+                  - img "Finance Feeds" [ref=e123]
+                  - img "Newsmax" [ref=e125]
+                  - img "StreetInsider.com" [ref=e127]
+                  - img "RSS Feeds Distribution" [ref=e129]
+                  - button "+1 more" [ref=e130] [cursor=pointer]
+              - generic [ref=e131]:
+                - generic [ref=e132]: Distribution to 300+ News Publications
+                - generic [ref=e138]: AI Discoverability (ChatGPT, Perplexity)
+                - generic [ref=e144]: Search Optimized Title & Meta Tags
+                - generic [ref=e150]: Distributed to U.S. TV/Radio Affiliate Websites Based on Relevance
+              - generic [ref=e156]:
+                - generic [ref=e157]: Guaranteed Media Placements
+                - generic [ref=e161]: 100% Money-Back Guarantee
+                - generic [ref=e165]:
+                  - generic [ref=e166]: SECURE CHECKOUT
+                  - generic [ref=e171]: TRUSTED SELLER
+            - generic [ref=e176]:
+              - generic [ref=e177]:
+                - generic [ref=e178]: Total Price
+                - generic [ref=e179]: $89
+              - paragraph [ref=e180]: You'll be redirected to our secure payment page to complete your order.
+              - button "Proceed to Payment" [ref=e181] [cursor=pointer]
+  - alert [ref=e184]
